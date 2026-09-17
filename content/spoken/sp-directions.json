@@ -1,0 +1,109 @@
+{
+"id": "sp-directions",
+"name": "问路与交通",
+"course": "spoken",
+"order": 3,
+"kind": "sentence",
+"items": [
+{
+"t": "Excuse me, how do I get to the train station?",
+"z": "打扰一下，去火车站怎么走？",
+"n": 1
+},
+{
+"t": "Is it within walking distance?",
+"z": "走路能到吗？",
+"n": 2
+},
+{
+"t": "Go straight for two blocks and turn left.",
+"z": "直走两个街区然后左转。",
+"n": 3
+},
+{
+"t": "It's right across the street from the bank.",
+"z": "就在银行街对面。",
+"n": 4
+},
+{
+"t": "You can't miss it.",
+"z": "你一定能找到。",
+"n": 5
+},
+{
+"t": "Which line do I take to get downtown?",
+"z": "去市中心坐哪条线？",
+"n": 6
+},
+{
+"t": "Does this bus go to the airport?",
+"z": "这趟公交去机场吗？",
+"n": 7
+},
+{
+"t": "How often does the train run?",
+"z": "火车多久一班？",
+"n": 8
+},
+{
+"t": "I think I'm lost.",
+"z": "我好像迷路了。",
+"n": 9
+},
+{
+"t": "Could you show me on the map?",
+"z": "你能在地图上指给我看吗？",
+"n": 10
+},
+{
+"t": "Is this seat taken?",
+"z": "这个座位有人吗？",
+"n": 11
+},
+{
+"t": "Where do I buy a ticket?",
+"z": "在哪里买票？",
+"n": 12
+},
+{
+"t": "Can I get a transfer?",
+"z": "可以换乘吗？",
+"n": 13
+},
+{
+"t": "I'd like to go to this address, please.",
+"z": "请送我去这个地址。",
+"n": 14
+},
+{
+"t": "Could you drop me off at the corner?",
+"z": "能在路口放我下车吗？",
+"n": 15
+},
+{
+"t": "How long will it take to get there?",
+"z": "到那里要多久？",
+"n": 16
+},
+{
+"t": "Traffic is terrible this time of day.",
+"z": "这个时间段交通很糟糕。",
+"n": 17
+},
+{
+"t": "I'll take a rideshare instead.",
+"z": "我还是叫个网约车吧。",
+"n": 18
+},
+{
+"t": "Watch your step getting off the bus.",
+"z": "下车时小心脚下。",
+"n": 19
+},
+{
+"t": "Thanks, you've been a big help.",
+"z": "谢谢，你帮了大忙。",
+"n": 20
+}
+]
+}

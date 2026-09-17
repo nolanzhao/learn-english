@@ -1,0 +1,109 @@
+{
+"id": "sp-smalltalk",
+"name": "天气与闲聊",
+"course": "spoken",
+"order": 21,
+"kind": "sentence",
+"items": [
+{
+"t": "Crazy weather we're having, huh?",
+"z": "这天气真够离谱的，是吧？",
+"n": 1
+},
+{
+"t": "It's supposed to rain all weekend.",
+"z": "据说整个周末都要下雨。",
+"n": 2
+},
+{
+"t": "Stay warm out there.",
+"z": "外面冷，注意保暖。",
+"n": 3
+},
+{
+"t": "It's a scorcher today.",
+"z": "今天热得要命。",
+"n": 4
+},
+{
+"t": "Any plans for the weekend?",
+"z": "周末有什么安排？",
+"n": 5
+},
+{
+"t": "How's work treating you?",
+"z": "工作最近怎么样？",
+"n": 6
+},
+{
+"t": "Did you catch the game last night?",
+"z": "昨晚的比赛你看了吗？",
+"n": 7
+},
+{
+"t": "I can't believe it's already September.",
+"z": "真不敢相信已经九月了。",
+"n": 8
+},
+{
+"t": "Is it just me, or is this line not moving?",
+"z": "是我错觉吗，这队根本没动？",
+"n": 9
+},
+{
+"t": "Long day?",
+"z": "今天很累吧？",
+"n": 10
+},
+{
+"t": "Have a good one!",
+"z": "祝你今天愉快！",
+"n": 11
+},
+{
+"t": "Hey, how's it going? Good, you?",
+"z": "嘿，最近怎么样？挺好的，你呢？",
+"n": 12
+},
+{
+"t": "I've been meaning to try that new place.",
+"z": "我一直想去试试那家新店。",
+"n": 13
+},
+{
+"t": "The traffic this morning was brutal.",
+"z": "今早的交通糟透了。",
+"n": 14
+},
+{
+"t": "I could really use a coffee right now.",
+"z": "我现在真需要来杯咖啡。",
+"n": 15
+},
+{
+"t": "Hope your week's going well.",
+"z": "希望你这周过得顺利。",
+"n": 16
+},
+{
+"t": "Living the dream.",
+"z": "还能咋样，凑合活着呗。",
+"n": 17
+},
+{
+"t": "Same old, same old.",
+"z": "老样子。",
+"n": 18
+},
+{
+"t": "Nice to see a friendly face.",
+"z": "见到熟人真好。",
+"n": 19
+},
+{
+"t": "Well, I'll let you get back to it.",
+"z": "那我不打扰你忙了。",
+"n": 20
+}
+]
+}

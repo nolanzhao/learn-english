@@ -1,0 +1,109 @@
+{
+"id": "sp-online",
+"name": "网购、快递与客服",
+"course": "spoken",
+"order": 17,
+"kind": "sentence",
+"items": [
+{
+"t": "My package says delivered, but I never got it.",
+"z": "包裹显示已送达，但我根本没收到。",
+"n": 1
+},
+{
+"t": "Can you check the tracking number for me?",
+"z": "能帮我查一下快递单号吗？",
+"n": 2
+},
+{
+"t": "I'd like to return this item. It arrived damaged.",
+"z": "我想退这件商品，到手时就坏了。",
+"n": 3
+},
+{
+"t": "Do I need to print a shipping label?",
+"z": "我需要打印运单标签吗？",
+"n": 4
+},
+{
+"t": "Is there a restocking fee?",
+"z": "有重新上架费吗？",
+"n": 5
+},
+{
+"t": "I was charged twice for the same order.",
+"z": "同一笔订单我被扣了两次钱。",
+"n": 6
+},
+{
+"t": "Can I speak to a supervisor, please?",
+"z": "我可以和主管谈谈吗？",
+"n": 7
+},
+{
+"t": "I've been on hold for forty minutes.",
+"z": "我已经等了四十分钟了。",
+"n": 8
+},
+{
+"t": "Can you send me a confirmation email?",
+"z": "能给我发一封确认邮件吗？",
+"n": 9
+},
+{
+"t": "What's your return window?",
+"z": "你们的退货期限是多久？",
+"n": 10
+},
+{
+"t": "I'd like to cancel my subscription.",
+"z": "我想取消订阅。",
+"n": 11
+},
+{
+"t": "The discount code isn't working at checkout.",
+"z": "结账时折扣码用不了。",
+"n": 12
+},
+{
+"t": "Do you offer free shipping over a certain amount?",
+"z": "满一定金额有免运费吗？",
+"n": 13
+},
+{
+"t": "Can I change the delivery address?",
+"z": "可以修改收货地址吗？",
+"n": 14
+},
+{
+"t": "Please leave the package at the back door.",
+"z": "请把包裹放在后门。",
+"n": 15
+},
+{
+"t": "It's been two weeks and I still haven't received my refund.",
+"z": "已经两周了，我还没收到退款。",
+"n": 16
+},
+{
+"t": "Can you expedite the shipping?",
+"z": "能加急发货吗？",
+"n": 17
+},
+{
+"t": "I got the wrong size. Can I exchange it?",
+"z": "尺码不对，可以换货吗？",
+"n": 18
+},
+{
+"t": "Is this item back in stock?",
+"z": "这件商品补货了吗？",
+"n": 19
+},
+{
+"t": "Thanks for your help. Have a good one.",
+"z": "谢谢你的帮助，祝好。",
+"n": 20
+}
+]
+}

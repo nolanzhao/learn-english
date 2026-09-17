@@ -1,0 +1,109 @@
+{
+"id": "sp-greet",
+"name": "打招呼与寒暄",
+"course": "spoken",
+"order": 0,
+"kind": "sentence",
+"items": [
+{
+"t": "Hey, how's it going?",
+"z": "嘿，最近怎么样？",
+"n": 1
+},
+{
+"t": "Long time no see! How have you been?",
+"z": "好久不见！你最近好吗？",
+"n": 2
+},
+{
+"t": "I'm doing pretty well, thanks for asking.",
+"z": "我挺好的，谢谢关心。",
+"n": 3
+},
+{
+"t": "What have you been up to lately?",
+"z": "你最近在忙什么？",
+"n": 4
+},
+{
+"t": "Nice to finally meet you in person.",
+"z": "很高兴终于见到你本人了。",
+"n": 5
+},
+{
+"t": "It was great catching up with you.",
+"z": "跟你叙叙旧真开心。",
+"n": 6
+},
+{
+"t": "I'd better get going. Talk to you later!",
+"z": "我得走了，回头聊！",
+"n": 7
+},
+{
+"t": "Have a good one!",
+"z": "祝你今天顺利！",
+"n": 8
+},
+{
+"t": "Take care, and say hi to your family for me.",
+"z": "保重，替我向你家人问好。",
+"n": 9
+},
+{
+"t": "How was your weekend?",
+"z": "你周末过得怎么样？",
+"n": 10
+},
+{
+"t": "Not much, just taking it easy.",
+"z": "没什么特别的，就是放松一下。",
+"n": 11
+},
+{
+"t": "Sorry, I didn't catch your name.",
+"z": "抱歉，我没听清你的名字。",
+"n": 12
+},
+{
+"t": "Where are you from originally?",
+"z": "你老家是哪里的？",
+"n": 13
+},
+{
+"t": "What do you do for a living?",
+"z": "你是做什么工作的？",
+"n": 14
+},
+{
+"t": "Small world! I went to the same school.",
+"z": "世界真小！我也上的那所学校。",
+"n": 15
+},
+{
+"t": "Let's grab coffee sometime.",
+"z": "改天一起喝杯咖啡吧。",
+"n": 16
+},
+{
+"t": "I'll text you and we can figure out a time.",
+"z": "我给你发消息，我们再定时间。",
+"n": 17
+},
+{
+"t": "It's been a crazy week.",
+"z": "这周简直忙疯了。",
+"n": 18
+},
+{
+"t": "Can't complain. Same old, same old.",
+"z": "还行吧，老样子。",
+"n": 19
+},
+{
+"t": "Anyway, I should let you go.",
+"z": "那我就不耽误你了。",
+"n": 20
+}
+]
+}

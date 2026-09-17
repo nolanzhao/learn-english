@@ -1,0 +1,109 @@
+{
+"id": "sp-salon",
+"name": "理发与个人护理",
+"course": "spoken",
+"order": 25,
+"kind": "sentence",
+"items": [
+{
+"t": "I'd like a trim, just an inch off the ends.",
+"z": "我想修一下，发尾剪掉一英寸就行。",
+"n": 1
+},
+{
+"t": "Same as last time, please.",
+"z": "和上次一样，谢谢。",
+"n": 2
+},
+{
+"t": "Can you take a little more off the sides?",
+"z": "两边能再剪短一点吗？",
+"n": 3
+},
+{
+"t": "I want to keep the length but add some layers.",
+"z": "长度不变，加一些层次。",
+"n": 4
+},
+{
+"t": "Do you take walk-ins?",
+"z": "你们接受不预约直接来的客人吗？",
+"n": 5
+},
+{
+"t": "How long is the wait?",
+"z": "要等多久？",
+"n": 6
+},
+{
+"t": "Can I get a fade with a little length on top?",
+"z": "剪个渐变，顶上留一点长度。",
+"n": 7
+},
+{
+"t": "I'm thinking about going shorter.",
+"z": "我在考虑剪短一点。",
+"n": 8
+},
+{
+"t": "Could you thin it out a bit?",
+"z": "能打薄一点吗？",
+"n": 9
+},
+{
+"t": "How much is a cut and color?",
+"z": "剪加染多少钱？",
+"n": 10
+},
+{
+"t": "I'd like a gel manicure.",
+"z": "我想做甲油胶美甲。",
+"n": 11
+},
+{
+"t": "Is twenty percent a good tip here?",
+"z": "这里给百分之二十小费合适吗？",
+"n": 12
+},
+{
+"t": "Can I book my next appointment now?",
+"z": "我现在可以预约下一次吗？",
+"n": 13
+},
+{
+"t": "My scalp's been really dry lately.",
+"z": "我头皮最近特别干。",
+"n": 14
+},
+{
+"t": "Could you not use too much product?",
+"z": "能少用点造型产品吗？",
+"n": 15
+},
+{
+"t": "That's perfect. Thank you.",
+"z": "太好了，谢谢。",
+"n": 16
+},
+{
+"t": "I'd like a beard trim as well.",
+"z": "我也想修一下胡子。",
+"n": 17
+},
+{
+"t": "Do you do eyebrow threading?",
+"z": "你们做线雕眉吗？",
+"n": 18
+},
+{
+"t": "I'm in a bit of a rush. How long will this take?",
+"z": "我有点赶时间，这要多久？",
+"n": 19
+},
+{
+"t": "Can you recommend a good shampoo for curly hair?",
+"z": "能推荐一款适合卷发的洗发水吗？",
+"n": 20
+}
+]
+}

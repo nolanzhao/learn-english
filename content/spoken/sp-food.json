@@ -1,0 +1,109 @@
+{
+"id": "sp-food",
+"name": "餐厅点餐",
+"course": "spoken",
+"order": 1,
+"kind": "sentence",
+"items": [
+{
+"t": "Table for two, please.",
+"z": "两位，谢谢。",
+"n": 1
+},
+{
+"t": "Do you have a reservation?",
+"z": "请问您有预订吗？",
+"n": 2
+},
+{
+"t": "Could we get a table by the window?",
+"z": "我们能坐靠窗的位子吗？",
+"n": 3
+},
+{
+"t": "Can I get a menu, please?",
+"z": "能给我一份菜单吗？",
+"n": 4
+},
+{
+"t": "What do you recommend?",
+"z": "你有什么推荐的？",
+"n": 5
+},
+{
+"t": "I'll have the grilled salmon with a side salad.",
+"z": "我要烤三文鱼，配一份沙拉。",
+"n": 6
+},
+{
+"t": "Could I get that without onions?",
+"z": "可以不放洋葱吗？",
+"n": 7
+},
+{
+"t": "How would you like your steak cooked?",
+"z": "您的牛排要几分熟？",
+"n": 8
+},
+{
+"t": "Medium rare, please.",
+"z": "三分熟，谢谢。",
+"n": 9
+},
+{
+"t": "Can we get some more water when you get a chance?",
+"z": "方便的时候能再给我们加点水吗？",
+"n": 10
+},
+{
+"t": "Is this dish spicy?",
+"z": "这道菜辣吗？",
+"n": 11
+},
+{
+"t": "I'm allergic to peanuts.",
+"z": "我对花生过敏。",
+"n": 12
+},
+{
+"t": "Could we split the check?",
+"z": "我们可以分开付账吗？",
+"n": 13
+},
+{
+"t": "Can I get the check, please?",
+"z": "请给我账单，谢谢。",
+"n": 14
+},
+{
+"t": "Keep the change.",
+"z": "不用找了。",
+"n": 15
+},
+{
+"t": "Could I get a box for the leftovers?",
+"z": "能给我个打包盒吗？",
+"n": 16
+},
+{
+"t": "Everything was delicious, thank you.",
+"z": "每道菜都很好吃，谢谢。",
+"n": 17
+},
+{
+"t": "I'd like to order for pickup.",
+"z": "我想点外卖自取。",
+"n": 18
+},
+{
+"t": "Is the tip included?",
+"z": "小费包含在内了吗？",
+"n": 19
+},
+{
+"t": "We're ready to order whenever you are.",
+"z": "你方便的时候我们就可以点餐了。",
+"n": 20
+}
+]
+}

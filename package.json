@@ -1,0 +1,35 @@
+{
+  "name": "learn-english",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "content": "node scripts/build-content.mjs",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate:local": "wrangler d1 migrations apply DB --local",
+    "db:migrate:remote": "wrangler d1 migrations apply DB --remote",
+    "typecheck": "tsc --noEmit",
+    "serve": "python3 serve.py"
+  },
+  "dependencies": {
+    "better-auth": "^1.7.4",
+    "drizzle-orm": "^0.45.2",
+    "hono": "^4.13.7"
+  },
+  "devDependencies": {
+    "@better-auth/cli": "^1.4.22",
+    "@cloudflare/workers-types": "^5.20260911.1",
+    "@types/node": "^22.20.2",
+    "drizzle-kit": "^0.31.10",
+    "typescript": "^7.0.2",
+    "wrangler": "^4.131.1"
+  },
+  "description": "Learn English by typing, spelling, dictation and shadowing — PTE academic vocabulary and everyday American English. Plain HTML/JS, optional Cloudflare backend.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nolanzhao/learn-english"
+  },
+  "homepage": "https://learn-english.nolanzhao.workers.dev"
+}

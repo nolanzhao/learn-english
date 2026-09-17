@@ -1,0 +1,109 @@
+{
+"id": "sp-daily",
+"name": "高频短句",
+"course": "spoken",
+"order": 11,
+"kind": "sentence",
+"items": [
+{
+"t": "What's up?",
+"z": "怎么了？/ 最近咋样？",
+"n": 1
+},
+{
+"t": "My bad.",
+"z": "我的错。",
+"n": 2
+},
+{
+"t": "No worries.",
+"z": "没事儿。",
+"n": 3
+},
+{
+"t": "Sounds good.",
+"z": "听起来不错。",
+"n": 4
+},
+{
+"t": "Hang on a sec.",
+"z": "等一下。",
+"n": 5
+},
+{
+"t": "I'll be right back.",
+"z": "我马上回来。",
+"n": 6
+},
+{
+"t": "Never mind.",
+"z": "算了，没事。",
+"n": 7
+},
+{
+"t": "Are you serious?",
+"z": "你认真的吗？",
+"n": 8
+},
+{
+"t": "Fair enough.",
+"z": "有道理，行吧。",
+"n": 9
+},
+{
+"t": "Let me think about it.",
+"z": "让我想想。",
+"n": 10
+},
+{
+"t": "I'm in.",
+"z": "算我一个。",
+"n": 11
+},
+{
+"t": "Count me out.",
+"z": "别算我。",
+"n": 12
+},
+{
+"t": "Good call.",
+"z": "好主意。",
+"n": 13
+},
+{
+"t": "Same here.",
+"z": "我也是。",
+"n": 14
+},
+{
+"t": "Go ahead.",
+"z": "请便。/ 你先。",
+"n": 15
+},
+{
+"t": "You bet.",
+"z": "当然。",
+"n": 16
+},
+{
+"t": "That's on me.",
+"z": "这个算我的。",
+"n": 17
+},
+{
+"t": "Got it.",
+"z": "明白了。",
+"n": 18
+},
+{
+"t": "Take your time.",
+"z": "慢慢来。",
+"n": 19
+},
+{
+"t": "Catch you later.",
+"z": "回头见。",
+"n": 20
+}
+]
+}

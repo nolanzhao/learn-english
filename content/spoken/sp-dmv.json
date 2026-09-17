@@ -1,0 +1,109 @@
+{
+"id": "sp-dmv",
+"name": "政府办事与证件",
+"course": "spoken",
+"order": 26,
+"kind": "sentence",
+"items": [
+{
+"t": "I'm here to renew my driver's license.",
+"z": "我来续驾照。",
+"n": 1
+},
+{
+"t": "Do I need an appointment?",
+"z": "需要预约吗？",
+"n": 2
+},
+{
+"t": "Take a number and have a seat.",
+"z": "取号后请坐下等候。",
+"n": 3
+},
+{
+"t": "I need two forms of ID.",
+"z": "我需要两种身份证明。",
+"n": 4
+},
+{
+"t": "Is a utility bill okay as proof of address?",
+"z": "水电账单可以作为地址证明吗？",
+"n": 5
+},
+{
+"t": "I'd like to get a Real ID.",
+"z": "我想办一张 Real ID。",
+"n": 6
+},
+{
+"t": "Where do I go to register my car?",
+"z": "去哪里办车辆登记？",
+"n": 7
+},
+{
+"t": "I need to update my address on file.",
+"z": "我需要更新登记的地址。",
+"n": 8
+},
+{
+"t": "How long does it take to get the card in the mail?",
+"z": "卡邮寄过来要多久？",
+"n": 9
+},
+{
+"t": "I'm here for my road test.",
+"z": "我来参加路考。",
+"n": 10
+},
+{
+"t": "Can I pay with a card, or is it cash only?",
+"z": "可以刷卡还是只收现金？",
+"n": 11
+},
+{
+"t": "I need to mail this certified.",
+"z": "这封信我要寄挂号。",
+"n": 12
+},
+{
+"t": "Can I get a tracking number for that?",
+"z": "能给我一个追踪号吗？",
+"n": 13
+},
+{
+"t": "I'd like to apply for a passport.",
+"z": "我想申请护照。",
+"n": 14
+},
+{
+"t": "Do you have the form I need to fill out?",
+"z": "你们有我需要填的表格吗？",
+"n": 15
+},
+{
+"t": "Is there a notary here?",
+"z": "这里有公证员吗？",
+"n": 16
+},
+{
+"t": "What documents should I bring next time?",
+"z": "下次我需要带什么文件？",
+"n": 17
+},
+{
+"t": "My application got rejected. What's the next step?",
+"z": "我的申请被拒了，下一步该怎么办？",
+"n": 18
+},
+{
+"t": "Can you check the status of my application?",
+"z": "能帮我查一下申请进度吗？",
+"n": 19
+},
+{
+"t": "Thanks. You've been really patient with me.",
+"z": "谢谢，你对我真有耐心。",
+"n": 20
+}
+]
+}

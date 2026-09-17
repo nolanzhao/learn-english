@@ -1,0 +1,109 @@
+{
+"id": "sp-campus",
+"name": "大学校园与学习",
+"course": "spoken",
+"order": 38,
+"kind": "sentence",
+"items": [
+{
+"t": "What's your major?",
+"z": "你是什么专业的？",
+"n": 1
+},
+{
+"t": "I'm a junior, studying computer science.",
+"z": "我大三，学计算机科学。",
+"n": 2
+},
+{
+"t": "Are you taking any electives this semester?",
+"z": "你这学期选了选修课吗？",
+"n": 3
+},
+{
+"t": "Office hours are Tuesdays from two to four.",
+"z": "答疑时间是周二两点到四点。",
+"n": 4
+},
+{
+"t": "Can I get an extension on the paper?",
+"z": "论文能延期交吗？",
+"n": 5
+},
+{
+"t": "I pulled an all-nighter for the midterm.",
+"z": "为了期中考我熬了个通宵。",
+"n": 6
+},
+{
+"t": "Do you want to form a study group?",
+"z": "要不要组个学习小组？",
+"n": 7
+},
+{
+"t": "The library's open twenty-four hours during finals.",
+"z": "期末期间图书馆二十四小时开放。",
+"n": 8
+},
+{
+"t": "I need to drop this class before the deadline.",
+"z": "我得在截止日期前退掉这门课。",
+"n": 9
+},
+{
+"t": "Is attendance mandatory?",
+"z": "必须出勤吗？",
+"n": 10
+},
+{
+"t": "How's the workload for that professor?",
+"z": "那位教授的课业量怎么样？",
+"n": 11
+},
+{
+"t": "I'm on a waitlist for the class.",
+"z": "我在那门课的候补名单上。",
+"n": 12
+},
+{
+"t": "Can you send me your notes from Monday?",
+"z": "能把周一的笔记发我吗？",
+"n": 13
+},
+{
+"t": "The syllabus says it's due Friday at midnight.",
+"z": "大纲上写的是周五午夜前交。",
+"n": 14
+},
+{
+"t": "I got an internship for the summer.",
+"z": "我拿到了暑期实习。",
+"n": 15
+},
+{
+"t": "My roommate never does the dishes.",
+"z": "我室友从不洗碗。",
+"n": 16
+},
+{
+"t": "Are you going to the football game Saturday?",
+"z": "周六你去看橄榄球赛吗？",
+"n": 17
+},
+{
+"t": "I'm applying for financial aid.",
+"z": "我在申请助学金。",
+"n": 18
+},
+{
+"t": "The dining hall food is hit or miss.",
+"z": "食堂的饭时好时坏。",
+"n": 19
+},
+{
+"t": "Let's meet at the student center at noon.",
+"z": "中午在学生中心见。",
+"n": 20
+}
+]
+}

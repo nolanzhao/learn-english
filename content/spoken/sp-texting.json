@@ -1,0 +1,109 @@
+{
+"id": "sp-texting",
+"name": "短信与网络用语",
+"course": "spoken",
+"order": 29,
+"kind": "sentence",
+"items": [
+{
+"t": "omw, be there in 10",
+"z": "在路上了，十分钟到",
+"n": 1
+},
+{
+"t": "running late, sorry!!",
+"z": "要迟到了，抱歉！！",
+"n": 2
+},
+{
+"t": "can you call me when you get a sec?",
+"z": "有空的时候给我打个电话？",
+"n": 3
+},
+{
+"t": "lmk if you're still down",
+"z": "还想去的话告诉我",
+"n": 4
+},
+{
+"t": "np, no rush",
+"z": "没事，不着急",
+"n": 5
+},
+{
+"t": "brb",
+"z": "马上回来",
+"n": 6
+},
+{
+"t": "idk, what do you think?",
+"z": "我不知道，你觉得呢？",
+"n": 7
+},
+{
+"t": "tbh I'm kinda tired tonight",
+"z": "说实话我今晚有点累",
+"n": 8
+},
+{
+"t": "sounds good, see you then",
+"z": "好的，到时候见",
+"n": 9
+},
+{
+"t": "wyd rn?",
+"z": "你现在在干嘛？",
+"n": 10
+},
+{
+"t": "I'll text you the address",
+"z": "我把地址短信发你",
+"n": 11
+},
+{
+"t": "just landed",
+"z": "刚落地",
+"n": 12
+},
+{
+"t": "ugh, my train got cancelled",
+"z": "啊，我的火车取消了",
+"n": 13
+},
+{
+"t": "k thx",
+"z": "好的谢谢",
+"n": 14
+},
+{
+"t": "btw did you see this?",
+"z": "对了，你看到这个了吗？",
+"n": 15
+},
+{
+"t": "haha same",
+"z": "哈哈我也是",
+"n": 16
+},
+{
+"t": "rain check? something came up",
+"z": "改天行吗？临时有事",
+"n": 17
+},
+{
+"t": "thanks so much, you're the best",
+"z": "太感谢了，你最好了",
+"n": 18
+},
+{
+"t": "gtg, talk later",
+"z": "得走了，回头聊",
+"n": 19
+},
+{
+"t": "ttyl",
+"z": "回头聊",
+"n": 20
+}
+]
+}

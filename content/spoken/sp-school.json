@@ -1,0 +1,109 @@
+{
+"id": "sp-school",
+"name": "学校与家长沟通",
+"course": "spoken",
+"order": 15,
+"kind": "sentence",
+"items": [
+{
+"t": "I'd like to schedule a parent-teacher conference.",
+"z": "我想预约一次家长会。",
+"n": 1
+},
+{
+"t": "How is she doing in class?",
+"z": "她在班上表现怎么样？",
+"n": 2
+},
+{
+"t": "He's been struggling a bit with math lately.",
+"z": "他最近数学有点吃力。",
+"n": 3
+},
+{
+"t": "Is there a field trip coming up?",
+"z": "最近有校外活动吗？",
+"n": 4
+},
+{
+"t": "I need to sign the permission slip.",
+"z": "我得签一下同意书。",
+"n": 5
+},
+{
+"t": "What time does pickup end?",
+"z": "放学接人截止到几点？",
+"n": 6
+},
+{
+"t": "She'll be out sick today.",
+"z": "她今天生病请假。",
+"n": 7
+},
+{
+"t": "Can I get a copy of the syllabus?",
+"z": "能给我一份教学大纲吗？",
+"n": 8
+},
+{
+"t": "Do they offer after-school programs?",
+"z": "学校有课后活动项目吗？",
+"n": 9
+},
+{
+"t": "What's the school's policy on phones?",
+"z": "学校对手机的规定是什么？",
+"n": 10
+},
+{
+"t": "Is there a school bus that covers our area?",
+"z": "有覆盖我们这片的校车吗？",
+"n": 11
+},
+{
+"t": "I'd like to volunteer for the bake sale.",
+"z": "我想报名义卖活动的志愿者。",
+"n": 12
+},
+{
+"t": "He forgot his lunch. Can I drop it off at the front office?",
+"z": "他忘带午饭了，我能送到前台吗？",
+"n": 13
+},
+{
+"t": "When are report cards sent out?",
+"z": "成绩单什么时候发？",
+"n": 14
+},
+{
+"t": "Can we set up a tutoring session?",
+"z": "我们能安排一次辅导吗？",
+"n": 15
+},
+{
+"t": "She's been having trouble with a classmate.",
+"z": "她和一个同学处得不太好。",
+"n": 16
+},
+{
+"t": "Is the school closed for the snow day?",
+"z": "下雪天学校停课吗？",
+"n": 17
+},
+{
+"t": "What supplies does he need for the new semester?",
+"z": "新学期他需要准备什么学习用品？",
+"n": 18
+},
+{
+"t": "Thanks for looking out for him.",
+"z": "谢谢你这么照顾他。",
+"n": 19
+},
+{
+"t": "Please let me know if anything changes.",
+"z": "有任何变化请告诉我。",
+"n": 20
+}
+]
+}

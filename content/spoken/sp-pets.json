@@ -1,0 +1,109 @@
+{
+"id": "sp-pets",
+"name": "宠物",
+"course": "spoken",
+"order": 23,
+"kind": "sentence",
+"items": [
+{
+"t": "Is he friendly? Can I pet him?",
+"z": "它友好吗？我能摸摸它吗？",
+"n": 1
+},
+{
+"t": "She's a rescue. We adopted her last year.",
+"z": "它是救助犬，我们去年领养的。",
+"n": 2
+},
+{
+"t": "What breed is he?",
+"z": "它是什么品种？",
+"n": 3
+},
+{
+"t": "He's due for his shots.",
+"z": "它该打疫苗了。",
+"n": 4
+},
+{
+"t": "Do you know a good vet around here?",
+"z": "你知道这附近有靠谱的兽医吗？",
+"n": 5
+},
+{
+"t": "She's been off her food for a couple of days.",
+"z": "它这两天不太吃东西。",
+"n": 6
+},
+{
+"t": "Please keep your dog on a leash.",
+"z": "请给狗拴好牵引绳。",
+"n": 7
+},
+{
+"t": "Sit. Stay. Good boy.",
+"z": "坐下，别动，好孩子。",
+"n": 8
+},
+{
+"t": "He's house-trained, mostly.",
+"z": "它基本学会在外面上厕所了。",
+"n": 9
+},
+{
+"t": "Can you watch the cat this weekend?",
+"z": "这周末能帮我照看一下猫吗？",
+"n": 10
+},
+{
+"t": "The litter box needs changing.",
+"z": "猫砂盆该换了。",
+"n": 11
+},
+{
+"t": "Is this apartment pet-friendly?",
+"z": "这套公寓允许养宠物吗？",
+"n": 12
+},
+{
+"t": "There's a pet deposit of three hundred dollars.",
+"z": "宠物押金三百美元。",
+"n": 13
+},
+{
+"t": "He sheds like crazy in the spring.",
+"z": "它春天掉毛掉得厉害。",
+"n": 14
+},
+{
+"t": "We're taking her to the dog park.",
+"z": "我们带它去狗公园。",
+"n": 15
+},
+{
+"t": "Don't feed him from the table.",
+"z": "别在餐桌上喂它。",
+"n": 16
+},
+{
+"t": "She gets anxious during thunderstorms.",
+"z": "打雷时它会很焦虑。",
+"n": 17
+},
+{
+"t": "How much is the grooming appointment?",
+"z": "美容预约多少钱？",
+"n": 18
+},
+{
+"t": "He's microchipped, just in case.",
+"z": "它植入了芯片，以防万一。",
+"n": 19
+},
+{
+"t": "She's getting old, but she's still got energy.",
+"z": "它年纪大了，但精力还不错。",
+"n": 20
+}
+]
+}

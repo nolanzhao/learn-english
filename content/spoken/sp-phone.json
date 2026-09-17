@@ -1,0 +1,109 @@
+{
+"id": "sp-phone",
+"name": "电话与预约",
+"course": "spoken",
+"order": 5,
+"kind": "sentence",
+"items": [
+{
+"t": "Hi, this is Alex calling about my appointment.",
+"z": "你好，我是 Alex，想咨询一下我的预约。",
+"n": 1
+},
+{
+"t": "May I ask who's calling?",
+"z": "请问您是哪位？",
+"n": 2
+},
+{
+"t": "Can I speak to someone in billing?",
+"z": "我可以找账单部门的人吗？",
+"n": 3
+},
+{
+"t": "Please hold while I transfer you.",
+"z": "请稍等，我为您转接。",
+"n": 4
+},
+{
+"t": "I'd like to make an appointment for next Tuesday.",
+"z": "我想预约下周二。",
+"n": 5
+},
+{
+"t": "Do you have anything earlier?",
+"z": "有更早一点的时间吗？",
+"n": 6
+},
+{
+"t": "I need to reschedule my appointment.",
+"z": "我需要改一下预约时间。",
+"n": 7
+},
+{
+"t": "I'm calling to confirm my reservation.",
+"z": "我打电话来确认我的预订。",
+"n": 8
+},
+{
+"t": "Sorry, you're breaking up. Can you say that again?",
+"z": "抱歉，信号不好，你能再说一遍吗？",
+"n": 9
+},
+{
+"t": "Could you speak a little slower, please?",
+"z": "你能说慢一点吗？",
+"n": 10
+},
+{
+"t": "Let me spell that for you.",
+"z": "我给你拼一下。",
+"n": 11
+},
+{
+"t": "Can I leave a message?",
+"z": "我可以留言吗？",
+"n": 12
+},
+{
+"t": "I'll call back later.",
+"z": "我晚点再打过来。",
+"n": 13
+},
+{
+"t": "What's the best number to reach you at?",
+"z": "联系你最方便的号码是什么？",
+"n": 14
+},
+{
+"t": "You've reached the wrong number.",
+"z": "你打错电话了。",
+"n": 15
+},
+{
+"t": "Thanks for calling. Have a great day.",
+"z": "感谢来电，祝您愉快。",
+"n": 16
+},
+{
+"t": "Is there a cancellation fee?",
+"z": "有取消费用吗？",
+"n": 17
+},
+{
+"t": "Could you text me the confirmation?",
+"z": "能把确认信息发短信给我吗？",
+"n": 18
+},
+{
+"t": "I'm running about ten minutes late.",
+"z": "我大概会晚到十分钟。",
+"n": 19
+},
+{
+"t": "Sorry to bother you so late.",
+"z": "抱歉这么晚打扰你。",
+"n": 20
+}
+]
+}

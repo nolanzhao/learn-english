@@ -1,0 +1,109 @@
+{
+"id": "sp-interview",
+"name": "求职面试",
+"course": "spoken",
+"order": 27,
+"kind": "sentence",
+"items": [
+{
+"t": "Tell me a little about yourself.",
+"z": "简单介绍一下你自己。",
+"n": 1
+},
+{
+"t": "Why are you interested in this role?",
+"z": "你为什么对这个职位感兴趣？",
+"n": 2
+},
+{
+"t": "Walk me through your resume.",
+"z": "带我过一遍你的简历。",
+"n": 3
+},
+{
+"t": "What would you say is your biggest weakness?",
+"z": "你觉得自己最大的弱点是什么？",
+"n": 4
+},
+{
+"t": "Tell me about a time you dealt with a difficult coworker.",
+"z": "讲一个你和难相处同事打交道的经历。",
+"n": 5
+},
+{
+"t": "Where do you see yourself in five years?",
+"z": "你对五年后的自己有什么规划？",
+"n": 6
+},
+{
+"t": "What are your salary expectations?",
+"z": "你的薪资期望是多少？",
+"n": 7
+},
+{
+"t": "I'm looking for something in the range of eighty to ninety thousand.",
+"z": "我期望的范围是八到九万。",
+"n": 8
+},
+{
+"t": "Do you have any questions for us?",
+"z": "你有什么想问我们的吗？",
+"n": 9
+},
+{
+"t": "What does a typical day look like in this role?",
+"z": "这个职位的日常工作是什么样的？",
+"n": 10
+},
+{
+"t": "How would you describe the team culture?",
+"z": "你会怎么描述团队文化？",
+"n": 11
+},
+{
+"t": "What are the next steps in the process?",
+"z": "接下来的流程是什么？",
+"n": 12
+},
+{
+"t": "Thank you for taking the time to meet with me.",
+"z": "感谢您抽时间和我见面。",
+"n": 13
+},
+{
+"t": "I'm really excited about this opportunity.",
+"z": "我对这个机会非常期待。",
+"n": 14
+},
+{
+"t": "I'd love to follow up next week if that's okay.",
+"z": "如果可以的话，我下周再跟进一下。",
+"n": 15
+},
+{
+"t": "Can you tell me more about the hybrid policy?",
+"z": "能多说说混合办公的政策吗？",
+"n": 16
+},
+{
+"t": "I'm currently on a two-week notice period.",
+"z": "我现在需要提前两周通知离职。",
+"n": 17
+},
+{
+"t": "I took some time off to care for a family member.",
+"z": "我休了一段时间照顾家人。",
+"n": 18
+},
+{
+"t": "We'd like to extend you an offer.",
+"z": "我们想向你发出录用通知。",
+"n": 19
+},
+{
+"t": "I'd like a few days to think it over.",
+"z": "我想花几天时间考虑一下。",
+"n": 20
+}
+]
+}

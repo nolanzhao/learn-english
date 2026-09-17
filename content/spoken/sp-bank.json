@@ -1,0 +1,109 @@
+{
+"id": "sp-bank",
+"name": "银行、账单与理财",
+"course": "spoken",
+"order": 16,
+"kind": "sentence",
+"items": [
+{
+"t": "I'd like to open a checking account.",
+"z": "我想开一个活期账户。",
+"n": 1
+},
+{
+"t": "Is there a monthly maintenance fee?",
+"z": "有月度账户管理费吗？",
+"n": 2
+},
+{
+"t": "What's the minimum balance to avoid the fee?",
+"z": "免手续费的最低余额是多少？",
+"n": 3
+},
+{
+"t": "I need to deposit this check.",
+"z": "我要存这张支票。",
+"n": 4
+},
+{
+"t": "Can I set up direct deposit for my paycheck?",
+"z": "可以设置工资直接入账吗？",
+"n": 5
+},
+{
+"t": "My card got declined. Can you check what's going on?",
+"z": "我的卡被拒了，能查一下怎么回事吗？",
+"n": 6
+},
+{
+"t": "I think there's a fraudulent charge on my account.",
+"z": "我觉得我账户上有一笔欺诈消费。",
+"n": 7
+},
+{
+"t": "I'd like to dispute this transaction.",
+"z": "我想对这笔交易提出争议。",
+"n": 8
+},
+{
+"t": "What's the current interest rate on a savings account?",
+"z": "储蓄账户现在的利率是多少？",
+"n": 9
+},
+{
+"t": "I'd like to transfer five hundred dollars to my savings.",
+"z": "我想转五百美元到储蓄账户。",
+"n": 10
+},
+{
+"t": "Can you waive the overdraft fee this one time?",
+"z": "这次能免掉透支费吗？",
+"n": 11
+},
+{
+"t": "My statement shows a charge I don't recognize.",
+"z": "我的账单上有一笔我不认识的消费。",
+"n": 12
+},
+{
+"t": "How do I set up autopay for my credit card?",
+"z": "怎么给信用卡设置自动还款？",
+"n": 13
+},
+{
+"t": "What's my credit limit?",
+"z": "我的信用额度是多少？",
+"n": 14
+},
+{
+"t": "I'd like to order a replacement card.",
+"z": "我想申请补办一张卡。",
+"n": 15
+},
+{
+"t": "Are there any ATM fees if I use another bank?",
+"z": "用别家银行的 ATM 有手续费吗？",
+"n": 16
+},
+{
+"t": "Can you break a hundred for me?",
+"z": "能帮我把一百的换开吗？",
+"n": 17
+},
+{
+"t": "I'm trying to build my credit score.",
+"z": "我在努力提高信用分。",
+"n": 18
+},
+{
+"t": "The bill is due on the fifteenth.",
+"z": "账单十五号到期。",
+"n": 19
+},
+{
+"t": "I'd like to pay off the balance in full.",
+"z": "我想一次付清欠款。",
+"n": 20
+}
+]
+}

@@ -1,0 +1,109 @@
+{
+"id": "sp-travel",
+"name": "旅行与机场",
+"course": "spoken",
+"order": 8,
+"kind": "sentence",
+"items": [
+{
+"t": "I'd like to check in for my flight to Chicago.",
+"z": "我想办理飞往芝加哥的登机手续。",
+"n": 1
+},
+{
+"t": "Can I get a window seat?",
+"z": "可以给我靠窗的座位吗？",
+"n": 2
+},
+{
+"t": "How many bags are you checking?",
+"z": "您要托运几件行李？",
+"n": 3
+},
+{
+"t": "Is this carry-on okay?",
+"z": "这个随身行李可以吗？",
+"n": 4
+},
+{
+"t": "Please place your laptop in a separate bin.",
+"z": "请把笔记本电脑单独放在一个筐里。",
+"n": 5
+},
+{
+"t": "What's the gate number?",
+"z": "登机口是几号？",
+"n": 6
+},
+{
+"t": "My flight got delayed by two hours.",
+"z": "我的航班延误了两个小时。",
+"n": 7
+},
+{
+"t": "I missed my connection.",
+"z": "我错过了转机。",
+"n": 8
+},
+{
+"t": "Can you put me on the next available flight?",
+"z": "能帮我改到下一班有位的航班吗？",
+"n": 9
+},
+{
+"t": "What's the purpose of your visit?",
+"z": "您此行的目的是什么？",
+"n": 10
+},
+{
+"t": "I'm here on vacation for two weeks.",
+"z": "我来度假两周。",
+"n": 11
+},
+{
+"t": "Do I need to declare anything?",
+"z": "我需要申报什么吗？",
+"n": 12
+},
+{
+"t": "Where's the baggage claim?",
+"z": "行李提取处在哪里？",
+"n": 13
+},
+{
+"t": "My luggage didn't show up.",
+"z": "我的行李没出来。",
+"n": 14
+},
+{
+"t": "I have a reservation under the name Zhang.",
+"z": "我用张的名字订了房。",
+"n": 15
+},
+{
+"t": "What time is checkout?",
+"z": "几点退房？",
+"n": 16
+},
+{
+"t": "Could I get a late checkout?",
+"z": "我可以延迟退房吗？",
+"n": 17
+},
+{
+"t": "Is breakfast included?",
+"z": "含早餐吗？",
+"n": 18
+},
+{
+"t": "Can you call me a cab?",
+"z": "能帮我叫辆出租车吗？",
+"n": 19
+},
+{
+"t": "Do you have a map of the area?",
+"z": "有这附近的地图吗？",
+"n": 20
+}
+]
+}

@@ -1,0 +1,109 @@
+{
+"id": "sp-gym",
+"name": "健身与运动",
+"course": "spoken",
+"order": 20,
+"kind": "sentence",
+"items": [
+{
+"t": "Are you using this bench?",
+"z": "这个凳子你在用吗？",
+"n": 1
+},
+{
+"t": "Can I work in with you?",
+"z": "我能和你穿插着用这个器械吗？",
+"n": 2
+},
+{
+"t": "How many sets do you have left?",
+"z": "你还剩几组？",
+"n": 3
+},
+{
+"t": "Can you spot me?",
+"z": "能帮我保护一下吗？",
+"n": 4
+},
+{
+"t": "I'm just going to do a quick warm-up.",
+"z": "我先快速热个身。",
+"n": 5
+},
+{
+"t": "Do you want to split a personal trainer session?",
+"z": "要不要一起分摊一节私教课？",
+"n": 6
+},
+{
+"t": "I've been trying to get back into running.",
+"z": "我最近在重新开始跑步。",
+"n": 7
+},
+{
+"t": "I pulled a muscle last week.",
+"z": "我上周拉伤了肌肉。",
+"n": 8
+},
+{
+"t": "What's your PR on the deadlift?",
+"z": "你硬拉的个人最好成绩是多少？",
+"n": 9
+},
+{
+"t": "I'm sore from leg day.",
+"z": "练完腿我浑身酸。",
+"n": 10
+},
+{
+"t": "Let's do a five-K on Saturday.",
+"z": "周六一起跑个五公里吧。",
+"n": 11
+},
+{
+"t": "Is the pool open on weekends?",
+"z": "游泳池周末开吗？",
+"n": 12
+},
+{
+"t": "Can I freeze my membership while I'm away?",
+"z": "我出门期间可以冻结会员吗？",
+"n": 13
+},
+{
+"t": "Wipe down the machine when you're done.",
+"z": "用完把器械擦一下。",
+"n": 14
+},
+{
+"t": "I'm trying to cut back on sugar.",
+"z": "我在尽量少吃糖。",
+"n": 15
+},
+{
+"t": "Do you want to join our pickup basketball game?",
+"z": "要不要加入我们的野球局？",
+"n": 16
+},
+{
+"t": "I hit ten thousand steps today.",
+"z": "我今天走了一万步。",
+"n": 17
+},
+{
+"t": "Rest day. My body needs it.",
+"z": "今天休息，身体需要恢复。",
+"n": 18
+},
+{
+"t": "Let's stretch before we go.",
+"z": "走之前拉伸一下。",
+"n": 19
+},
+{
+"t": "Nice work today. Same time tomorrow?",
+"z": "今天练得不错，明天同一时间？",
+"n": 20
+}
+]
+}

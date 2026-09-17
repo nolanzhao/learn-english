@@ -1,0 +1,109 @@
+{
+"id": "sp-streaming",
+"name": "影视、音乐与追剧",
+"course": "spoken",
+"order": 35,
+"kind": "sentence",
+"items": [
+{
+"t": "Have you seen the new season yet? No spoilers!",
+"z": "新一季你看了吗？别剧透！",
+"n": 1
+},
+{
+"t": "It's on Netflix, I think.",
+"z": "应该在 Netflix 上。",
+"n": 2
+},
+{
+"t": "The ending was such a letdown.",
+"z": "结局太让人失望了。",
+"n": 3
+},
+{
+"t": "I'm three episodes in and I'm hooked.",
+"z": "我看了三集，已经上头了。",
+"n": 4
+},
+{
+"t": "What's everyone watching these days?",
+"z": "大家最近都在看什么？",
+"n": 5
+},
+{
+"t": "This song has been on repeat all week.",
+"z": "这首歌我这周一直单曲循环。",
+"n": 6
+},
+{
+"t": "Can you add me to your playlist?",
+"z": "能把我加进你的歌单吗？",
+"n": 7
+},
+{
+"t": "The movie was okay, but the book was way better.",
+"z": "电影还行，但书好太多了。",
+"n": 8
+},
+{
+"t": "Is it worth watching?",
+"z": "值得看吗？",
+"n": 9
+},
+{
+"t": "It's a slow burn, but it pays off.",
+"z": "开头节奏慢，但后面值得。",
+"n": 10
+},
+{
+"t": "I fell asleep halfway through.",
+"z": "我看到一半就睡着了。",
+"n": 11
+},
+{
+"t": "Who's your favorite character?",
+"z": "你最喜欢哪个角色？",
+"n": 12
+},
+{
+"t": "They're doing a reunion tour next summer.",
+"z": "他们明年夏天要办重聚巡演。",
+"n": 13
+},
+{
+"t": "Tickets sold out in like ten minutes.",
+"z": "票大概十分钟就卖光了。",
+"n": 14
+},
+{
+"t": "We got nosebleed seats, but it was still fun.",
+"z": "我们坐在最顶层，但还是很开心。",
+"n": 15
+},
+{
+"t": "The soundtrack is incredible.",
+"z": "原声带太棒了。",
+"n": 16
+},
+{
+"t": "I can't stand laugh tracks.",
+"z": "我受不了罐头笑声。",
+"n": 17
+},
+{
+"t": "Let's put something on in the background.",
+"z": "放点什么当背景吧。",
+"n": 18
+},
+{
+"t": "The plot twist got me.",
+"z": "那个反转把我惊到了。",
+"n": 19
+},
+{
+"t": "It's a comfort show for me.",
+"z": "这是我的治愈剧。",
+"n": 20
+}
+]
+}

@@ -1,0 +1,109 @@
+{
+"id": "sp-slang",
+"name": "年轻人常用口语",
+"course": "spoken",
+"order": 30,
+"kind": "sentence",
+"items": [
+{
+"t": "Bet.",
+"z": "行，说定了。",
+"n": 1
+},
+{
+"t": "I'm down.",
+"z": "我可以，算我一个。",
+"n": 2
+},
+{
+"t": "Say less.",
+"z": "不用多说，懂了。",
+"n": 3
+},
+{
+"t": "That tracks.",
+"z": "这就说得通了。",
+"n": 4
+},
+{
+"t": "It's giving main character energy.",
+"z": "这很有主角气场。",
+"n": 5
+},
+{
+"t": "Lowkey, I didn't want to go anyway.",
+"z": "说实话，我本来就不太想去。",
+"n": 6
+},
+{
+"t": "Highkey obsessed with this song.",
+"z": "我对这首歌真的上头了。",
+"n": 7
+},
+{
+"t": "No cap, that was the best pizza I've ever had.",
+"z": "不骗你，那是我吃过最好吃的披萨。",
+"n": 8
+},
+{
+"t": "He's got rizz.",
+"z": "他很有魅力。",
+"n": 9
+},
+{
+"t": "That's a vibe.",
+"z": "这氛围绝了。",
+"n": 10
+},
+{
+"t": "Vibe check.",
+"z": "看看状态怎么样。",
+"n": 11
+},
+{
+"t": "I'm not gonna lie, I'm kind of nervous.",
+"z": "不瞒你说，我有点紧张。",
+"n": 12
+},
+{
+"t": "She ate that.",
+"z": "她表现太绝了。",
+"n": 13
+},
+{
+"t": "This slaps.",
+"z": "这个太赞了。",
+"n": 14
+},
+{
+"t": "Go touch grass.",
+"z": "出去走走，别老上网了。",
+"n": 15
+},
+{
+"t": "It's a whole thing.",
+"z": "这事说来话长。",
+"n": 16
+},
+{
+"t": "I'm cooked.",
+"z": "我完了。",
+"n": 17
+},
+{
+"t": "Delulu is the solulu.",
+"z": "自我幻想就是解决方案。",
+"n": 18
+},
+{
+"t": "That's so real.",
+"z": "太真实了。",
+"n": 19
+},
+{
+"t": "Periodt.",
+"z": "就这样，没得说。",
+"n": 20
+}
+]
+}

@@ -1,0 +1,109 @@
+{
+"id": "sp-grocery",
+"name": "超市与日常采购",
+"course": "spoken",
+"order": 13,
+"kind": "sentence",
+"items": [
+{
+"t": "Excuse me, where can I find the almond milk?",
+"z": "请问杏仁奶在哪里？",
+"n": 1
+},
+{
+"t": "Is this on sale this week?",
+"z": "这个这周打折吗？",
+"n": 2
+},
+{
+"t": "Do you have a loyalty card?",
+"z": "您有会员卡吗？",
+"n": 3
+},
+{
+"t": "Paper or plastic?",
+"z": "纸袋还是塑料袋？",
+"n": 4
+},
+{
+"t": "I brought my own bags.",
+"z": "我自己带了袋子。",
+"n": 5
+},
+{
+"t": "Can you check the price on this for me?",
+"z": "能帮我查一下这个的价格吗？",
+"n": 6
+},
+{
+"t": "These avocados aren't quite ripe yet.",
+"z": "这些牛油果还没熟。",
+"n": 7
+},
+{
+"t": "I'll take a pound of the ground beef.",
+"z": "我要一磅牛肉末。",
+"n": 8
+},
+{
+"t": "Could you slice that thin, please?",
+"z": "请切薄一点。",
+"n": 9
+},
+{
+"t": "Is the self-checkout open?",
+"z": "自助结账开着吗？",
+"n": 10
+},
+{
+"t": "It says unexpected item in the bagging area again.",
+"z": "它又提示装袋区有异物了。",
+"n": 11
+},
+{
+"t": "I forgot to weigh the bananas.",
+"z": "我忘了给香蕉称重。",
+"n": 12
+},
+{
+"t": "Do you sell stamps here?",
+"z": "这里卖邮票吗？",
+"n": 13
+},
+{
+"t": "Can I get cash back with this purchase?",
+"z": "结账时可以顺便取现金吗？",
+"n": 14
+},
+{
+"t": "What's the expiration date on this?",
+"z": "这个的保质期到什么时候？",
+"n": 15
+},
+{
+"t": "The line at register three is shorter.",
+"z": "三号收银台的队更短。",
+"n": 16
+},
+{
+"t": "Sorry, I'm just grabbing one thing.",
+"z": "不好意思，我就拿一样东西。",
+"n": 17
+},
+{
+"t": "Do you have this in a bigger size?",
+"z": "这个有大包装的吗？",
+"n": 18
+},
+{
+"t": "I need to return this. It was expired when I bought it.",
+"z": "我要退这个，买的时候就过期了。",
+"n": 19
+},
+{
+"t": "Where do I return the cart?",
+"z": "购物车放回哪里？",
+"n": 20
+}
+]
+}

@@ -1,0 +1,109 @@
+{
+"id": "sp-tech",
+"name": "手机、网络与科技问题",
+"course": "spoken",
+"order": 18,
+"kind": "sentence",
+"items": [
+{
+"t": "My phone keeps freezing.",
+"z": "我的手机老是卡住。",
+"n": 1
+},
+{
+"t": "Have you tried turning it off and on again?",
+"z": "你试过关机重启吗？",
+"n": 2
+},
+{
+"t": "The Wi-Fi is down again.",
+"z": "Wi-Fi 又断了。",
+"n": 3
+},
+{
+"t": "I'm at two percent. Do you have a charger?",
+"z": "我手机只剩百分之二了，你有充电器吗？",
+"n": 4
+},
+{
+"t": "Can you send me the link?",
+"z": "能把链接发给我吗？",
+"n": 5
+},
+{
+"t": "I'm locked out of my account.",
+"z": "我的账号登不进去了。",
+"n": 6
+},
+{
+"t": "I need to reset my password.",
+"z": "我需要重置密码。",
+"n": 7
+},
+{
+"t": "My screen is cracked. How much would it cost to fix?",
+"z": "我屏幕碎了，修一下要多少钱？",
+"n": 8
+},
+{
+"t": "The app keeps crashing every time I open it.",
+"z": "这个 App 一打开就闪退。",
+"n": 9
+},
+{
+"t": "Did you get my text?",
+"z": "你收到我的短信了吗？",
+"n": 10
+},
+{
+"t": "You're on mute.",
+"z": "你静音了。",
+"n": 11
+},
+{
+"t": "Can everyone see my screen?",
+"z": "大家能看到我的屏幕吗？",
+"n": 12
+},
+{
+"t": "Let me share my screen real quick.",
+"z": "我快速共享一下屏幕。",
+"n": 13
+},
+{
+"t": "Sorry, my internet's been spotty today.",
+"z": "抱歉，我今天网络时断时续。",
+"n": 14
+},
+{
+"t": "I'll drop the link in the chat.",
+"z": "我把链接发到聊天框里。",
+"n": 15
+},
+{
+"t": "Can you AirDrop me those photos?",
+"z": "能把那些照片隔空投送给我吗？",
+"n": 16
+},
+{
+"t": "I'm running out of storage.",
+"z": "我的存储空间快满了。",
+"n": 17
+},
+{
+"t": "Turn on Do Not Disturb before the movie.",
+"z": "看电影前打开勿扰模式。",
+"n": 18
+},
+{
+"t": "My laptop's fan is really loud lately.",
+"z": "我笔记本的风扇最近特别响。",
+"n": 19
+},
+{
+"t": "Have you backed up your files?",
+"z": "你备份文件了吗？",
+"n": 20
+}
+]
+}

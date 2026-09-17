@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Learn English · 英语练习</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="track"><i id="track"></i></div>
+<button class="menu" id="menuBtn" aria-label="课程目录" title="课程目录 (⌘B)">☰</button>
+<div class="backdrop" id="backdrop"></div>
+<button class="unfocus" id="unfocus" title="退出专注模式 (⌘.)">退出专注 <kbd>⌘.</kbd></button>
+<aside class="side" id="side">
+  <div class="side-head"><b>课程</b><button id="sideClose" aria-label="收起">✕</button></div>
+  <nav class="courses" id="courses"></nav>
+  <div class="side-foot"><div class="account" id="account"></div><div>今日练习 <b id="sideToday">0</b> 次 · 正确 <b id="sideTodayOk">0</b> <span id="sync" class="sync"></span></div></div>
+</aside>
+<div class="page">
+  <header>
+    <nav class="decks" id="decks"></nav>
+    <div class="hdr-actions"><button class="gear" id="focusBtn" title="专注模式 (⌘.)">专注</button><button class="gear" id="gear" aria-expanded="false">设置 ▾</button></div>
+  </header>
+  <div class="settings" id="settings">
+    <label id="filterWrap"><span id="filterName">范围</span><select id="filter"></select></label>
+    <label>语音<select id="voice"></select></label>
+    <label>语速<select id="rate"><option value="0.8">慢</option><option value="0.95" selected>中</option><option value="1.1">快</option></select></label>
+    <label class="row"><input type="checkbox" id="skipMastered" checked> 跳过已掌握</label>
+    <label class="row"><input type="checkbox" id="autoSpeak" checked> 出题时自动朗读</label>
+    <label class="row"><input type="checkbox" id="autoSubmit" checked> 打完自动提交（不用按回车）</label>
+    <label class="row"><input type="checkbox" id="speakOnWrong" checked> 答错时朗读</label>
+    <label class="row"><input type="checkbox" id="soundLog"> 每次发声时在屏幕上提示来源</label>
+    <div class="tools">
+      <button id="export">导出进度</button>
+      <button id="import">导入进度</button>
+      <button id="reset">清空本库进度</button>
+      <button id="importDeck">导入词库</button>
+      <input type="file" id="deckFile" accept=".json,.txt,.tsv,.csv,.md" hidden>
+      <button id="manageDecks">管理我的词库</button>
+      <button id="deleteAccount" hidden>删除账号</button>
+      <input type="file" id="file" accept="application/json" hidden>
+      <span class="hint">已掌握 = 连续答对 2 次；待巩固 = 答错过且尚未连对 2 次。未登录时进度只存在本机浏览器</span>
+    </div>
+  </div>
+
+  <div class="quick">
+    <div class="seg" id="mode" data-value="see"><button data-v="see">看题打字</button><button data-v="spell">看中文拼写</button><button data-v="dict">听写</button><button data-v="say">跟读</button><button data-v="read">听读</button></div>
+    <div class="seg" id="order" data-value="seq"><button data-v="seq">原表顺序</button><button data-v="alpha">字母顺序</button><button data-v="rand">随机</button><button data-v="weak">薄弱优先</button></div>
+    <label><input type="checkbox" id="showZh" checked> 显示中文</label>
+  </div>
+  <div class="round">
+    <div class="lbl"><span>本轮进度</span><b id="roundLbl">0 / 0</b></div>
+    <div class="bar"><b id="roundOk"></b><b class="miss" id="roundMiss"></b></div>
+  </div>
+
+  <main class="stage">
+    <div class="context" id="context"></div>
+    <div class="word idle" id="word"></div>
+    <div class="zh off" id="zh"></div>
+    <div class="chunks off" id="chunks"></div>
+    <div class="ex off" id="ex"></div>
+    <div class="heard off" id="heard"></div>
+    <input class="hid" id="typing" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="输入">
+    <div class="feedback" id="feedback"></div>
+    <div class="wordbar" id="wordbar">
+      <button class="mic" id="mic" hidden><span class="dot"></span>开始跟读<kbd>Space</kbd></button>
+      <button class="star" id="star"><span class="g">☆</span>收藏<kbd>Tab</kbd></button>
+      <button id="speak">🔊 朗读<kbd>⌘P</kbd></button>
+      <button id="reveal">显示答案</button>
+      <button id="skip">跳过<kbd>Esc</kbd></button>
+      <span class="navhint"><kbd>⌘←</kbd><kbd>⌘→</kbd> 前后切换</span>
+    </div>
+  </main>
+
+  <footer>
+    <div class="row">
+      <span>本次 <b id="sN">0</b></span>
+      <span>正确率 <b id="sAcc">–</b></span>
+      <span>连对 <b id="sStreak">0</b></span>
+      <span>今日 <b id="sToday">0</b></span>
+    </div>
+    <div class="row">
+      <span>本库已掌握 <b id="sMaster">0</b></span>
+      <span>待巩固 <b id="sWeak">0</b></span>
+      <button class="toggle" id="reviewToggle">错题与收藏 ▾</button>
+    </div>
+  </footer>
+  <div class="deckbar" id="deckbar"></div>
+  <div class="review" id="review"></div>
+  <div class="mydecks" id="mydecks" hidden></div>
+  <div class="toast" id="toast" hidden></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

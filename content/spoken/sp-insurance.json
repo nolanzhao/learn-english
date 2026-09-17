@@ -1,0 +1,109 @@
+{
+"id": "sp-insurance",
+"name": "保险与医疗账单",
+"course": "spoken",
+"order": 37,
+"kind": "sentence",
+"items": [
+{
+"t": "Do you accept my insurance?",
+"z": "你们接受我的保险吗？",
+"n": 1
+},
+{
+"t": "What's my copay for this visit?",
+"z": "这次就诊我要付多少自付额？",
+"n": 2
+},
+{
+"t": "I haven't met my deductible yet.",
+"z": "我还没达到免赔额。",
+"n": 3
+},
+{
+"t": "Is this doctor in-network?",
+"z": "这位医生在保险网络内吗？",
+"n": 4
+},
+{
+"t": "I got a bill for something I thought was covered.",
+"z": "我收到一张账单，我以为那是保险覆盖的。",
+"n": 5
+},
+{
+"t": "Can you send an itemized bill?",
+"z": "能寄一份明细账单吗？",
+"n": 6
+},
+{
+"t": "I need a referral to see a specialist.",
+"z": "看专科医生我需要转诊。",
+"n": 7
+},
+{
+"t": "Can I set up a payment plan?",
+"z": "可以分期付款吗？",
+"n": 8
+},
+{
+"t": "My prescription needs prior authorization.",
+"z": "我的处方需要预先授权。",
+"n": 9
+},
+{
+"t": "Is there a generic version of this medication?",
+"z": "这个药有仿制药版本吗？",
+"n": 10
+},
+{
+"t": "Open enrollment ends next week.",
+"z": "保险开放注册期下周结束。",
+"n": 11
+},
+{
+"t": "I'd like to add my spouse to my plan.",
+"z": "我想把配偶加进我的保险计划。",
+"n": 12
+},
+{
+"t": "What does the premium come out to per month?",
+"z": "保费每个月是多少？",
+"n": 13
+},
+{
+"t": "I'm calling to file a claim.",
+"z": "我打电话来申请理赔。",
+"n": 14
+},
+{
+"t": "Someone rear-ended me. Whose insurance covers it?",
+"z": "有人追尾了我，谁的保险来赔？",
+"n": 15
+},
+{
+"t": "Can I get a quote for renters insurance?",
+"z": "能给我一份租客保险的报价吗？",
+"n": 16
+},
+{
+"t": "My rate went up for no reason.",
+"z": "我的保费莫名其妙涨了。",
+"n": 17
+},
+{
+"t": "Is dental covered under this plan?",
+"z": "这个计划包含牙科吗？",
+"n": 18
+},
+{
+"t": "I'd like to appeal the denial.",
+"z": "我想对拒赔提出申诉。",
+"n": 19
+},
+{
+"t": "Can you explain what this code on the bill means?",
+"z": "能解释一下账单上这个代码是什么意思吗？",
+"n": 20
+}
+]
+}

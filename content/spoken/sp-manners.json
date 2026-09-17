@@ -1,0 +1,109 @@
+{
+"id": "sp-manners",
+"name": "道歉、感谢与请求",
+"course": "spoken",
+"order": 32,
+"kind": "sentence",
+"items": [
+{
+"t": "Sorry, I didn't mean to cut you off.",
+"z": "抱歉，我不是有意打断你。",
+"n": 1
+},
+{
+"t": "My bad, that was totally on me.",
+"z": "我的错，完全是我的问题。",
+"n": 2
+},
+{
+"t": "I owe you one.",
+"z": "我欠你一个人情。",
+"n": 3
+},
+{
+"t": "I really appreciate you doing that.",
+"z": "真的很感谢你做了这件事。",
+"n": 4
+},
+{
+"t": "That's so kind of you.",
+"z": "你人真好。",
+"n": 5
+},
+{
+"t": "Would you mind if I opened the window?",
+"z": "我开一下窗你介意吗？",
+"n": 6
+},
+{
+"t": "Could I ask you a quick favor?",
+"z": "能帮我个小忙吗？",
+"n": 7
+},
+{
+"t": "Sorry to bother you, but do you have a minute?",
+"z": "不好意思打扰一下，你有时间吗？",
+"n": 8
+},
+{
+"t": "No worries at all.",
+"z": "完全没关系。",
+"n": 9
+},
+{
+"t": "Don't mention it.",
+"z": "不用客气。",
+"n": 10
+},
+{
+"t": "I'm sorry for your loss.",
+"z": "请节哀。",
+"n": 11
+},
+{
+"t": "I hope I'm not overstepping, but…",
+"z": "希望我没有越界，不过……",
+"n": 12
+},
+{
+"t": "Thanks for being so understanding.",
+"z": "谢谢你这么体谅。",
+"n": 13
+},
+{
+"t": "Sorry, I'm going to have to pass this time.",
+"z": "抱歉，这次我得放弃了。",
+"n": 14
+},
+{
+"t": "Excuse me, I think you dropped this.",
+"z": "打扰一下，我想这是你掉的。",
+"n": 15
+},
+{
+"t": "Let me get the door for you.",
+"z": "我帮你开门。",
+"n": 16
+},
+{
+"t": "After you.",
+"z": "你先请。",
+"n": 17
+},
+{
+"t": "I didn't catch that. Could you say it again?",
+"z": "我没听清，能再说一遍吗？",
+"n": 18
+},
+{
+"t": "Thanks for your patience.",
+"z": "谢谢你的耐心。",
+"n": 19
+},
+{
+"t": "It means a lot.",
+"z": "这对我意义重大。",
+"n": 20
+}
+]
+}

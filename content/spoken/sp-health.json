@@ -1,0 +1,109 @@
+{
+"id": "sp-health",
+"name": "医院与健康",
+"course": "spoken",
+"order": 6,
+"kind": "sentence",
+"items": [
+{
+"t": "I'd like to see a doctor. I'm not feeling well.",
+"z": "我想看医生，我不太舒服。",
+"n": 1
+},
+{
+"t": "What seems to be the problem?",
+"z": "您哪里不舒服？",
+"n": 2
+},
+{
+"t": "I've had a sore throat for three days.",
+"z": "我喉咙痛三天了。",
+"n": 3
+},
+{
+"t": "I have a headache and a slight fever.",
+"z": "我头痛，还有点低烧。",
+"n": 4
+},
+{
+"t": "Does it hurt when I press here?",
+"z": "我按这里疼吗？",
+"n": 5
+},
+{
+"t": "I'm allergic to penicillin.",
+"z": "我对青霉素过敏。",
+"n": 6
+},
+{
+"t": "Are you currently taking any medication?",
+"z": "您目前在服用什么药吗？",
+"n": 7
+},
+{
+"t": "Take one tablet twice a day after meals.",
+"z": "每天两次，饭后各服一片。",
+"n": 8
+},
+{
+"t": "Do I need a prescription for this?",
+"z": "这个需要处方吗？",
+"n": 9
+},
+{
+"t": "Where can I fill this prescription?",
+"z": "我在哪里能拿这个处方的药？",
+"n": 10
+},
+{
+"t": "I think I sprained my ankle.",
+"z": "我好像扭伤了脚踝。",
+"n": 11
+},
+{
+"t": "You should stay off it for a few days.",
+"z": "你应该休息几天，别用力。",
+"n": 12
+},
+{
+"t": "Do you accept my insurance?",
+"z": "你们接受我的保险吗？",
+"n": 13
+},
+{
+"t": "I'd like to schedule a checkup.",
+"z": "我想预约一次体检。",
+"n": 14
+},
+{
+"t": "Is it contagious?",
+"z": "这个会传染吗？",
+"n": 15
+},
+{
+"t": "I feel dizzy when I stand up.",
+"z": "我一站起来就头晕。",
+"n": 16
+},
+{
+"t": "Get plenty of rest and drink lots of fluids.",
+"z": "多休息，多喝水。",
+"n": 17
+},
+{
+"t": "Call 911 if it gets worse.",
+"z": "如果加重了就打 911。",
+"n": 18
+},
+{
+"t": "I have a dentist appointment at two.",
+"z": "我两点有个牙医预约。",
+"n": 19
+},
+{
+"t": "Feel better soon!",
+"z": "早日康复！",
+"n": 20
+}
+]
+}

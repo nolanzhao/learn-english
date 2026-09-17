@@ -1,0 +1,109 @@
+{
+"id": "sp-home",
+"name": "租房与生活",
+"course": "spoken",
+"order": 7,
+"kind": "sentence",
+"items": [
+{
+"t": "I'm looking for a one-bedroom apartment near downtown.",
+"z": "我在找市中心附近的一居室。",
+"n": 1
+},
+{
+"t": "How much is the rent per month?",
+"z": "月租多少钱？",
+"n": 2
+},
+{
+"t": "Are utilities included?",
+"z": "水电费包括在内吗？",
+"n": 3
+},
+{
+"t": "Is there a security deposit?",
+"z": "有押金吗？",
+"n": 4
+},
+{
+"t": "When can I move in?",
+"z": "我什么时候可以搬进来？",
+"n": 5
+},
+{
+"t": "Is the apartment pet-friendly?",
+"z": "公寓允许养宠物吗？",
+"n": 6
+},
+{
+"t": "The faucet in the kitchen is leaking.",
+"z": "厨房的水龙头在漏水。",
+"n": 7
+},
+{
+"t": "Could you send someone to fix the heater?",
+"z": "你能派人来修一下暖气吗？",
+"n": 8
+},
+{
+"t": "The Wi-Fi keeps dropping.",
+"z": "Wi-Fi 老是断。",
+"n": 9
+},
+{
+"t": "Where do I take out the trash?",
+"z": "垃圾扔到哪里？",
+"n": 10
+},
+{
+"t": "What day is recycling picked up?",
+"z": "可回收垃圾哪天收？",
+"n": 11
+},
+{
+"t": "I locked myself out.",
+"z": "我把自己锁在门外了。",
+"n": 12
+},
+{
+"t": "The neighbors are pretty noisy at night.",
+"z": "邻居晚上挺吵的。",
+"n": 13
+},
+{
+"t": "I need to renew my lease.",
+"z": "我需要续租。",
+"n": 14
+},
+{
+"t": "I'm giving my thirty-day notice.",
+"z": "我提前三十天通知退租。",
+"n": 15
+},
+{
+"t": "Is there parking available?",
+"z": "有停车位吗？",
+"n": 16
+},
+{
+"t": "The laundry room is in the basement.",
+"z": "洗衣房在地下室。",
+"n": 17
+},
+{
+"t": "Can I get an extra key made?",
+"z": "我能再配一把钥匙吗？",
+"n": 18
+},
+{
+"t": "My package was delivered to the wrong address.",
+"z": "我的包裹被送错地址了。",
+"n": 19
+},
+{
+"t": "Do you know a good plumber?",
+"z": "你认识靠谱的水管工吗？",
+"n": 20
+}
+]
+}

@@ -1,0 +1,109 @@
+{
+"id": "sp-negotiate",
+"name": "拒绝、协商与讨价还价",
+"course": "spoken",
+"order": 33,
+"kind": "sentence",
+"items": [
+{
+"t": "Is that your best price?",
+"z": "这是最低价了吗？",
+"n": 1
+},
+{
+"t": "Would you take two hundred for it?",
+"z": "两百卖吗？",
+"n": 2
+},
+{
+"t": "I can do one fifty, cash, today.",
+"z": "我可以出一百五，现金，今天就拿。",
+"n": 3
+},
+{
+"t": "Let me think about it and get back to you.",
+"z": "让我考虑一下再回复你。",
+"n": 4
+},
+{
+"t": "I'm going to have to say no.",
+"z": "我不得不拒绝。",
+"n": 5
+},
+{
+"t": "That doesn't really work for me.",
+"z": "这对我来说不太合适。",
+"n": 6
+},
+{
+"t": "Can we meet in the middle?",
+"z": "我们能各让一步吗？",
+"n": 7
+},
+{
+"t": "I appreciate the offer, but I'll pass.",
+"z": "谢谢你的好意，但我就不要了。",
+"n": 8
+},
+{
+"t": "What's the lowest you'd go?",
+"z": "你最低能到多少？",
+"n": 9
+},
+{
+"t": "Is the price negotiable?",
+"z": "价格可以商量吗？",
+"n": 10
+},
+{
+"t": "I've seen it cheaper online.",
+"z": "我在网上看到更便宜的。",
+"n": 11
+},
+{
+"t": "Throw in free delivery and we have a deal.",
+"z": "包送货的话我们就成交。",
+"n": 12
+},
+{
+"t": "I'm not comfortable with that.",
+"z": "这个我不太能接受。",
+"n": 13
+},
+{
+"t": "Let's revisit this next quarter.",
+"z": "这事我们下个季度再谈。",
+"n": 14
+},
+{
+"t": "Can you do anything about the price?",
+"z": "价格上能给点优惠吗？",
+"n": 15
+},
+{
+"t": "I'd need that in writing.",
+"z": "这个我需要书面确认。",
+"n": 16
+},
+{
+"t": "I'll sleep on it.",
+"z": "我考虑一晚再说。",
+"n": 17
+},
+{
+"t": "No hard feelings.",
+"z": "别往心里去。",
+"n": 18
+},
+{
+"t": "Is it still available?",
+"z": "还在卖吗？",
+"n": 19
+},
+{
+"t": "Deal. Pleasure doing business with you.",
+"z": "成交，和你做生意很愉快。",
+"n": 20
+}
+]
+}

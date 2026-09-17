@@ -1,0 +1,109 @@
+{
+"id": "sp-emergency",
+"name": "紧急情况与安全",
+"course": "spoken",
+"order": 31,
+"kind": "sentence",
+"items": [
+{
+"t": "Call 911!",
+"z": "快打 911！",
+"n": 1
+},
+{
+"t": "There's been an accident on the corner of Fifth and Main.",
+"z": "第五街和主街的路口出事故了。",
+"n": 2
+},
+{
+"t": "Is anyone hurt?",
+"z": "有人受伤吗？",
+"n": 3
+},
+{
+"t": "She's not breathing. Does anyone know CPR?",
+"z": "她没呼吸了，有人会心肺复苏吗？",
+"n": 4
+},
+{
+"t": "I smell gas in the apartment.",
+"z": "我在公寓里闻到煤气味。",
+"n": 5
+},
+{
+"t": "Get out of the building and don't use the elevator.",
+"z": "离开大楼，别用电梯。",
+"n": 6
+},
+{
+"t": "I think I'm having an allergic reaction.",
+"z": "我觉得我过敏了。",
+"n": 7
+},
+{
+"t": "Where's the nearest emergency room?",
+"z": "最近的急诊室在哪里？",
+"n": 8
+},
+{
+"t": "My wallet got stolen. I need to file a police report.",
+"z": "我钱包被偷了，我要报警。",
+"n": 9
+},
+{
+"t": "Stay on the line. Help is on the way.",
+"z": "别挂电话，救援马上到。",
+"n": 10
+},
+{
+"t": "There's a tornado warning for our county.",
+"z": "我们县发布了龙卷风警报。",
+"n": 11
+},
+{
+"t": "Do you have a first aid kit?",
+"z": "你有急救包吗？",
+"n": 12
+},
+{
+"t": "He passed out. Can someone get some water?",
+"z": "他晕倒了，有人能拿点水吗？",
+"n": 13
+},
+{
+"t": "I locked my keys in the car with the engine running.",
+"z": "我把钥匙锁车里了，车还没熄火。",
+"n": 14
+},
+{
+"t": "The smoke detector keeps going off.",
+"z": "烟雾报警器一直响。",
+"n": 15
+},
+{
+"t": "Pull over. I think we hit something.",
+"z": "靠边停，我们好像撞到东西了。",
+"n": 16
+},
+{
+"t": "I'm lost and my phone's about to die.",
+"z": "我迷路了，手机也快没电了。",
+"n": 17
+},
+{
+"t": "Please stay calm. Everything's going to be okay.",
+"z": "请保持冷静，一切都会没事的。",
+"n": 18
+},
+{
+"t": "We need an ambulance at this address.",
+"z": "这个地址需要一辆救护车。",
+"n": 19
+},
+{
+"t": "Are you okay? Do you need me to call someone?",
+"z": "你还好吗？需要我帮你打电话给谁吗？",
+"n": 20
+}
+]
+}

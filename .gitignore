@@ -1,0 +1,10 @@
+node_modules
+.wrangler
+.dev.vars
+public/content/
+content/*/.private
+*.bak
+*.log
+.DS_Store
+promo/
+content/private/

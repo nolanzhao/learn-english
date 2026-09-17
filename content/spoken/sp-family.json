@@ -1,0 +1,109 @@
+{
+"id": "sp-family",
+"name": "家庭与育儿",
+"course": "spoken",
+"order": 14,
+"kind": "sentence",
+"items": [
+{
+"t": "Time to get up, sweetie. You'll be late for school.",
+"z": "该起床了宝贝，上学要迟到了。",
+"n": 1
+},
+{
+"t": "Did you brush your teeth?",
+"z": "你刷牙了吗？",
+"n": 2
+},
+{
+"t": "Finish your veggies before you get dessert.",
+"z": "吃完蔬菜才能吃甜点。",
+"n": 3
+},
+{
+"t": "Five more minutes, then screens off.",
+"z": "再玩五分钟，然后把屏幕关掉。",
+"n": 4
+},
+{
+"t": "Who left the milk out again?",
+"z": "谁又把牛奶放外面了？",
+"n": 5
+},
+{
+"t": "Can you help me set the table?",
+"z": "能帮我摆一下餐具吗？",
+"n": 6
+},
+{
+"t": "It's your turn to walk the dog.",
+"z": "轮到你遛狗了。",
+"n": 7
+},
+{
+"t": "Use your words, not your hands.",
+"z": "有事好好说，别动手。",
+"n": 8
+},
+{
+"t": "I'm not going to ask you again.",
+"z": "我不会再说第二遍了。",
+"n": 9
+},
+{
+"t": "Let's get you buckled in.",
+"z": "来，系好安全带。",
+"n": 10
+},
+{
+"t": "Do you have any homework tonight?",
+"z": "你今晚有作业吗？",
+"n": 11
+},
+{
+"t": "Bedtime is eight thirty on school nights.",
+"z": "上学日的睡觉时间是八点半。",
+"n": 12
+},
+{
+"t": "Grandma's coming over for dinner on Sunday.",
+"z": "奶奶周日过来吃晚饭。",
+"n": 13
+},
+{
+"t": "Can you pick up the kids from practice today?",
+"z": "你今天能去训练那儿接孩子吗？",
+"n": 14
+},
+{
+"t": "We need to talk about your report card.",
+"z": "我们得聊聊你的成绩单。",
+"n": 15
+},
+{
+"t": "I'm so proud of you for trying.",
+"z": "你肯去尝试，我真为你骄傲。",
+"n": 16
+},
+{
+"t": "Go wash up. Dinner's almost ready.",
+"z": "去洗手，晚饭快好了。",
+"n": 17
+},
+{
+"t": "The baby's finally down for a nap.",
+"z": "宝宝终于睡午觉了。",
+"n": 18
+},
+{
+"t": "Can you keep an eye on your brother for a sec?",
+"z": "能帮我看一下弟弟吗？",
+"n": 19
+},
+{
+"t": "Family movie night, no phones.",
+"z": "家庭电影之夜，不许玩手机。",
+"n": 20
+}
+]
+}

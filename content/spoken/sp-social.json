@@ -1,0 +1,109 @@
+{
+"id": "sp-social",
+"name": "社交与约会",
+"course": "spoken",
+"order": 9,
+"kind": "sentence",
+"items": [
+{
+"t": "Are you free this weekend?",
+"z": "你这周末有空吗？",
+"n": 1
+},
+{
+"t": "Do you want to grab dinner sometime?",
+"z": "要不要找个时间一起吃个晚饭？",
+"n": 2
+},
+{
+"t": "I'd love to. What time works for you?",
+"z": "好啊，你几点方便？",
+"n": 3
+},
+{
+"t": "Let's meet at seven in front of the theater.",
+"z": "我们七点在剧院门口见。",
+"n": 4
+},
+{
+"t": "I'm running a little late. Be there in five.",
+"z": "我稍微晚一点，五分钟到。",
+"n": 5
+},
+{
+"t": "Sorry, something came up. Can we do it another time?",
+"z": "抱歉，临时有事，我们能改天吗？",
+"n": 6
+},
+{
+"t": "What kind of music are you into?",
+"z": "你喜欢什么类型的音乐？",
+"n": 7
+},
+{
+"t": "I'm a big fan of hiking.",
+"z": "我特别喜欢徒步。",
+"n": 8
+},
+{
+"t": "Have you seen the new Marvel movie?",
+"z": "你看过新的漫威电影了吗？",
+"n": 9
+},
+{
+"t": "It's my treat tonight.",
+"z": "今晚我请客。",
+"n": 10
+},
+{
+"t": "No way, let me get this one.",
+"z": "不行，这次我来。",
+"n": 11
+},
+{
+"t": "I had a really good time tonight.",
+"z": "今晚我过得很开心。",
+"n": 12
+},
+{
+"t": "We should do this again.",
+"z": "我们应该再约一次。",
+"n": 13
+},
+{
+"t": "Text me when you get home.",
+"z": "到家给我发个消息。",
+"n": 14
+},
+{
+"t": "Do you want to come over and watch a game?",
+"z": "要不要来我家看球？",
+"n": 15
+},
+{
+"t": "Bring whatever you want to drink.",
+"z": "想喝什么自己带。",
+"n": 16
+},
+{
+"t": "Happy birthday! Did you do anything fun?",
+"z": "生日快乐！有做什么好玩的事吗？",
+"n": 17
+},
+{
+"t": "Congrats on the new job!",
+"z": "恭喜你找到新工作！",
+"n": 18
+},
+{
+"t": "I'm so sorry for your loss.",
+"z": "请节哀。",
+"n": 19
+},
+{
+"t": "Let's stay in touch.",
+"z": "我们保持联系。",
+"n": 20
+}
+]
+}

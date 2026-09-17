@@ -1,0 +1,109 @@
+{
+"id": "sp-neighbors",
+"name": "邻里与社区",
+"course": "spoken",
+"order": 22,
+"kind": "sentence",
+"items": [
+{
+"t": "Hi, I'm Alex. We just moved in next door.",
+"z": "你好，我是 Alex，我们刚搬到隔壁。",
+"n": 1
+},
+{
+"t": "Let me know if the noise is ever a problem.",
+"z": "如果吵到你随时告诉我。",
+"n": 2
+},
+{
+"t": "Could you keep it down a bit after ten?",
+"z": "十点以后能小声一点吗？",
+"n": 3
+},
+{
+"t": "Your dog's been barking all afternoon.",
+"z": "你家狗叫了一下午了。",
+"n": 4
+},
+{
+"t": "Do you know what day the trash gets picked up?",
+"z": "你知道垃圾哪天收吗？",
+"n": 5
+},
+{
+"t": "Would you mind moving your car? It's blocking my driveway.",
+"z": "能挪一下车吗？挡住我家车道了。",
+"n": 6
+},
+{
+"t": "Can I borrow your ladder for an hour?",
+"z": "能借你的梯子用一个小时吗？",
+"n": 7
+},
+{
+"t": "We're having a barbecue Saturday. You should come by.",
+"z": "我们周六烧烤，你过来吧。",
+"n": 8
+},
+{
+"t": "I signed for a package for you.",
+"z": "我帮你签收了一个包裹。",
+"n": 9
+},
+{
+"t": "The HOA sent another letter about the lawn.",
+"z": "业主协会又寄来一封关于草坪的信。",
+"n": 10
+},
+{
+"t": "There's a block party next weekend.",
+"z": "下周末有街区派对。",
+"n": 11
+},
+{
+"t": "Someone's been going through the recycling bins.",
+"z": "有人一直在翻回收垃圾桶。",
+"n": 12
+},
+{
+"t": "I think the power's out on our whole street.",
+"z": "我觉得我们整条街都停电了。",
+"n": 13
+},
+{
+"t": "Do you have a good plumber you'd recommend?",
+"z": "你有推荐的靠谱水管工吗？",
+"n": 14
+},
+{
+"t": "Thanks for bringing in our mail while we were away.",
+"z": "谢谢你在我们不在时帮忙收信。",
+"n": 15
+},
+{
+"t": "Our kids go to the same school, right?",
+"z": "我们的孩子在同一所学校，对吧？",
+"n": 16
+},
+{
+"t": "The city's doing road work on Elm Street this week.",
+"z": "市里这周在榆树街修路。",
+"n": 17
+},
+{
+"t": "I can water your plants while you're gone.",
+"z": "你不在的时候我可以帮你浇花。",
+"n": 18
+},
+{
+"t": "Welcome to the neighborhood!",
+"z": "欢迎搬来这个社区！",
+"n": 19
+},
+{
+"t": "Let's swap numbers just in case.",
+"z": "我们交换一下电话，以防万一。",
+"n": 20
+}
+]
+}

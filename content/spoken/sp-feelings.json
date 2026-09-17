@@ -1,0 +1,109 @@
+{
+"id": "sp-feelings",
+"name": "情绪与观点表达",
+"course": "spoken",
+"order": 10,
+"kind": "sentence",
+"items": [
+{
+"t": "I'm really excited about the trip.",
+"z": "我对这次旅行特别期待。",
+"n": 1
+},
+{
+"t": "I'm a bit nervous about the interview.",
+"z": "我对面试有点紧张。",
+"n": 2
+},
+{
+"t": "That's so frustrating.",
+"z": "那太让人沮丧了。",
+"n": 3
+},
+{
+"t": "I'm totally exhausted.",
+"z": "我彻底累瘫了。",
+"n": 4
+},
+{
+"t": "I couldn't agree more.",
+"z": "我完全同意。",
+"n": 5
+},
+{
+"t": "I see where you're coming from, but I don't think so.",
+"z": "我理解你的想法，但我不这么认为。",
+"n": 6
+},
+{
+"t": "That makes sense.",
+"z": "有道理。",
+"n": 7
+},
+{
+"t": "Honestly, I'm not a big fan.",
+"z": "说实话，我不太喜欢。",
+"n": 8
+},
+{
+"t": "It's not a big deal.",
+"z": "没什么大不了的。",
+"n": 9
+},
+{
+"t": "I'm over it.",
+"z": "我已经不在意了。",
+"n": 10
+},
+{
+"t": "That was a close call.",
+"z": "刚才好险。",
+"n": 11
+},
+{
+"t": "You've got to be kidding me.",
+"z": "你不是在开玩笑吧。",
+"n": 12
+},
+{
+"t": "I'm on the fence about it.",
+"z": "我还没拿定主意。",
+"n": 13
+},
+{
+"t": "It is what it is.",
+"z": "事已至此，就这样吧。",
+"n": 14
+},
+{
+"t": "I'm really proud of you.",
+"z": "我真为你骄傲。",
+"n": 15
+},
+{
+"t": "Don't take it personally.",
+"z": "别往心里去。",
+"n": 16
+},
+{
+"t": "I'm just venting.",
+"z": "我只是发泄一下。",
+"n": 17
+},
+{
+"t": "That's a relief.",
+"z": "那就放心了。",
+"n": 18
+},
+{
+"t": "Let's look on the bright side.",
+"z": "我们往好的方面想。",
+"n": 19
+},
+{
+"t": "I'm keeping my fingers crossed.",
+"z": "我在祈祷好运。",
+"n": 20
+}
+]
+}

@@ -1,0 +1,109 @@
+{
+"id": "sp-shop",
+"name": "购物",
+"course": "spoken",
+"order": 2,
+"kind": "sentence",
+"items": [
+{
+"t": "I'm just looking, thanks.",
+"z": "我随便看看，谢谢。",
+"n": 1
+},
+{
+"t": "Do you have this in a medium?",
+"z": "这个有中号的吗？",
+"n": 2
+},
+{
+"t": "Can I try this on?",
+"z": "我可以试穿一下吗？",
+"n": 3
+},
+{
+"t": "Where are the fitting rooms?",
+"z": "试衣间在哪里？",
+"n": 4
+},
+{
+"t": "It's a little tight around the shoulders.",
+"z": "肩膀这里有点紧。",
+"n": 5
+},
+{
+"t": "Do you have it in another color?",
+"z": "有别的颜色吗？",
+"n": 6
+},
+{
+"t": "How much is this?",
+"z": "这个多少钱？",
+"n": 7
+},
+{
+"t": "Is this on sale?",
+"z": "这个在打折吗？",
+"n": 8
+},
+{
+"t": "Can I use this coupon?",
+"z": "这张优惠券能用吗？",
+"n": 9
+},
+{
+"t": "I'll take it.",
+"z": "我要这个了。",
+"n": 10
+},
+{
+"t": "Can I pay with a credit card?",
+"z": "可以刷信用卡吗？",
+"n": 11
+},
+{
+"t": "Would you like a receipt?",
+"z": "您需要小票吗？",
+"n": 12
+},
+{
+"t": "What's your return policy?",
+"z": "你们的退货政策是什么？",
+"n": 13
+},
+{
+"t": "I'd like to return this. It doesn't fit.",
+"z": "我想退掉这个，尺寸不合适。",
+"n": 14
+},
+{
+"t": "Do you price match?",
+"z": "你们提供价格匹配吗？",
+"n": 15
+},
+{
+"t": "Could you hold this for me until tomorrow?",
+"z": "能帮我留到明天吗？",
+"n": 16
+},
+{
+"t": "Do you ship to this address?",
+"z": "你们可以寄到这个地址吗？",
+"n": 17
+},
+{
+"t": "Is there a warranty on this?",
+"z": "这个有保修吗？",
+"n": 18
+},
+{
+"t": "You've been really helpful, thanks.",
+"z": "你帮了大忙，谢谢。",
+"n": 19
+},
+{
+"t": "I'll think about it and come back later.",
+"z": "我考虑一下，晚点再来。",
+"n": 20
+}
+]
+}

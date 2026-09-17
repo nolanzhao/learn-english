@@ -1,0 +1,109 @@
+{
+"id": "sp-car",
+"name": "开车、加油与修车",
+"course": "spoken",
+"order": 19,
+"kind": "sentence",
+"items": [
+{
+"t": "Can I get twenty on pump four?",
+"z": "四号油枪加二十美元。",
+"n": 1
+},
+{
+"t": "Regular or premium?",
+"z": "普通汽油还是高级汽油？",
+"n": 2
+},
+{
+"t": "My check engine light just came on.",
+"z": "我的发动机故障灯刚亮了。",
+"n": 3
+},
+{
+"t": "I need an oil change.",
+"z": "我需要换机油。",
+"n": 4
+},
+{
+"t": "How much for a tire rotation?",
+"z": "轮胎换位要多少钱？",
+"n": 5
+},
+{
+"t": "I've got a flat. Do you have a spare?",
+"z": "我爆胎了，你有备胎吗？",
+"n": 6
+},
+{
+"t": "My car won't start. I think the battery's dead.",
+"z": "我的车打不着火，估计电池没电了。",
+"n": 7
+},
+{
+"t": "Can you give me a jump?",
+"z": "能帮我搭电启动吗？",
+"n": 8
+},
+{
+"t": "Is there a parking garage nearby?",
+"z": "附近有停车场吗？",
+"n": 9
+},
+{
+"t": "You can't park here. It's a tow-away zone.",
+"z": "这里不能停车，是拖车区。",
+"n": 10
+},
+{
+"t": "I got a parking ticket this morning.",
+"z": "我今早吃了张违停罚单。",
+"n": 11
+},
+{
+"t": "License and registration, please.",
+"z": "请出示驾照和行驶证。",
+"n": 12
+},
+{
+"t": "Do you know how fast you were going?",
+"z": "你知道你刚才开多快吗？",
+"n": 13
+},
+{
+"t": "The brakes are squeaking.",
+"z": "刹车吱吱响。",
+"n": 14
+},
+{
+"t": "I'd like to get a quote for the repair.",
+"z": "我想要一份维修报价。",
+"n": 15
+},
+{
+"t": "Can you take a look at the AC? It's blowing warm air.",
+"z": "能看看空调吗？吹出来的是热风。",
+"n": 16
+},
+{
+"t": "My registration is up for renewal.",
+"z": "我的车辆登记该续了。",
+"n": 17
+},
+{
+"t": "Traffic on the interstate is backed up for miles.",
+"z": "州际公路堵了好几英里。",
+"n": 18
+},
+{
+"t": "Take the next exit and merge left.",
+"z": "下个出口下去，往左并线。",
+"n": 19
+},
+{
+"t": "I'll pull over so we can switch drivers.",
+"z": "我靠边停一下，我们换个人开。",
+"n": 20
+}
+]
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "learn-english",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": { "directory": "./public", "binding": "ASSETS", "not_found_handling": "404-page" },
+  "d1_databases": [
+    // 2026-09-17 已创建
+    { "binding": "DB", "database_name": "learn-english", "database_id": "c917fcbc-2b91-4df4-89fd-f12562eb2a95", "migrations_dir": "migrations" }
+  ],
+  "kv_namespaces": [
+    // 2026-09-17 已创建
+    { "binding": "RATE", "id": "9fb5d7711141483da8b6f4ad8a44f6c8" }
+  ],
+  "vars": {
+    "APP_NAME": "Learn English",
+    "APP_URL": "https://learn-english.nolanzhao.workers.dev",
+    "EMAIL_FROM": "Learn English <login@example.com>"
+  },
+  "workers_dev": true,
+  "preview_urls": false,
+  "observability": { "enabled": true }
+  // 密钥用 wrangler secret put: BETTER_AUTH_SECRET RESEND_API_KEY GOOGLE_CLIENT_ID GOOGLE_CLIENT_SECRET
+  //   GITHUB_CLIENT_ID GITHUB_CLIENT_SECRET MICROSOFT_CLIENT_ID MICROSOFT_CLIENT_SECRET
+}

@@ -1,0 +1,109 @@
+{
+"id": "sp-work",
+"name": "工作沟通",
+"course": "spoken",
+"order": 4,
+"kind": "sentence",
+"items": [
+{
+"t": "Can we set up a quick call to go over the details?",
+"z": "我们能安排个简短的电话过一下细节吗？",
+"n": 1
+},
+{
+"t": "I'll circle back to you by end of day.",
+"z": "我今天下班前回复你。",
+"n": 2
+},
+{
+"t": "Let's touch base tomorrow morning.",
+"z": "我们明早碰一下。",
+"n": 3
+},
+{
+"t": "Could you send me the latest version?",
+"z": "你能把最新版本发给我吗？",
+"n": 4
+},
+{
+"t": "I'm swamped this week. Can we push it to next week?",
+"z": "我这周忙不过来，能推到下周吗？",
+"n": 5
+},
+{
+"t": "Just to be on the same page, the deadline is Friday, right?",
+"z": "确认一下，截止日期是周五，对吧？",
+"n": 6
+},
+{
+"t": "I'll loop in the design team.",
+"z": "我会把设计团队拉进来。",
+"n": 7
+},
+{
+"t": "That works for me.",
+"z": "我没问题。",
+"n": 8
+},
+{
+"t": "Sorry, I have a hard stop at three.",
+"z": "抱歉，我三点必须结束。",
+"n": 9
+},
+{
+"t": "Let me get back to you on that.",
+"z": "这个我稍后回复你。",
+"n": 10
+},
+{
+"t": "Can you walk me through the process?",
+"z": "你能给我讲一遍流程吗？",
+"n": 11
+},
+{
+"t": "I think we're overthinking this.",
+"z": "我觉得我们想太多了。",
+"n": 12
+},
+{
+"t": "Let's take this offline.",
+"z": "这个我们会后单独聊。",
+"n": 13
+},
+{
+"t": "I'm on it.",
+"z": "我这就去办。",
+"n": 14
+},
+{
+"t": "Heads up, the client moved the meeting to Thursday.",
+"z": "提醒一下，客户把会议改到周四了。",
+"n": 15
+},
+{
+"t": "Do you have bandwidth to take this on?",
+"z": "你有精力接这个活吗？",
+"n": 16
+},
+{
+"t": "Nice work on the presentation.",
+"z": "演示做得很棒。",
+"n": 17
+},
+{
+"t": "Could you cc me on that email?",
+"z": "那封邮件能抄送我一下吗？",
+"n": 18
+},
+{
+"t": "I'm out of office next Monday.",
+"z": "我下周一不在办公室。",
+"n": 19
+},
+{
+"t": "Let's call it a day.",
+"z": "今天就到这里吧。",
+"n": 20
+}
+]
+}

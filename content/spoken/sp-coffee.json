@@ -1,0 +1,109 @@
+{
+"id": "sp-coffee",
+"name": "咖啡店与快餐",
+"course": "spoken",
+"order": 12,
+"kind": "sentence",
+"items": [
+{
+"t": "Can I get a medium iced latte with oat milk?",
+"z": "我要一杯中杯燕麦奶冰拿铁。",
+"n": 1
+},
+{
+"t": "For here or to go?",
+"z": "堂食还是外带？",
+"n": 2
+},
+{
+"t": "Can I get a name for the order?",
+"z": "请问取餐用什么名字？",
+"n": 3
+},
+{
+"t": "Could you make that a large?",
+"z": "能换成大杯吗？",
+"n": 4
+},
+{
+"t": "No whip, please.",
+"z": "不要奶油，谢谢。",
+"n": 5
+},
+{
+"t": "Can I add a shot of espresso to that?",
+"z": "能加一份浓缩吗？",
+"n": 6
+},
+{
+"t": "Do you have any non-dairy options?",
+"z": "有不含乳制品的选择吗？",
+"n": 7
+},
+{
+"t": "I'll take a number two with a Coke.",
+"z": "我要二号套餐，配可乐。",
+"n": 8
+},
+{
+"t": "Can I get that with no pickles?",
+"z": "可以不放酸黄瓜吗？",
+"n": 9
+},
+{
+"t": "Is the drive-thru still open?",
+"z": "得来速还开着吗？",
+"n": 10
+},
+{
+"t": "Pull up to the second window, please.",
+"z": "请开到第二个窗口。",
+"n": 11
+},
+{
+"t": "Can I get some extra napkins?",
+"z": "能多给几张纸巾吗？",
+"n": 12
+},
+{
+"t": "Do you guys do refills?",
+"z": "你们可以续杯吗？",
+"n": 13
+},
+{
+"t": "I think you gave me the wrong order.",
+"z": "我觉得你们给错单了。",
+"n": 14
+},
+{
+"t": "Can I get a receipt with that?",
+"z": "能给我一张小票吗？",
+"n": 15
+},
+{
+"t": "What's the Wi-Fi password?",
+"z": "Wi-Fi 密码是什么？",
+"n": 16
+},
+{
+"t": "Are you still serving breakfast?",
+"z": "早餐还在供应吗？",
+"n": 17
+},
+{
+"t": "Can I get the sauce on the side?",
+"z": "酱能单独放吗？",
+"n": 18
+},
+{
+"t": "Do you take Apple Pay?",
+"z": "可以用 Apple Pay 吗？",
+"n": 19
+},
+{
+"t": "I'll just have a water, thanks.",
+"z": "我就要杯水，谢谢。",
+"n": 20
+}
+]
+}

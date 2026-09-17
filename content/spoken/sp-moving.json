@@ -1,0 +1,109 @@
+{
+"id": "sp-moving",
+"name": "搬家与二手交易",
+"course": "spoken",
+"order": 36,
+"kind": "sentence",
+"items": [
+{
+"t": "We're moving at the end of the month.",
+"z": "我们月底搬家。",
+"n": 1
+},
+{
+"t": "Do you know any good movers?",
+"z": "你认识靠谱的搬家公司吗？",
+"n": 2
+},
+{
+"t": "I'm selling my couch on Facebook Marketplace.",
+"z": "我在 Facebook 二手市场上卖沙发。",
+"n": 3
+},
+{
+"t": "Is this still available?",
+"z": "这个还在吗？",
+"n": 4
+},
+{
+"t": "Can you do porch pickup?",
+"z": "可以放门口自取吗？",
+"n": 5
+},
+{
+"t": "I can pick it up tonight if that works.",
+"z": "方便的话我今晚就能来取。",
+"n": 6
+},
+{
+"t": "It's in good condition, just a few scratches.",
+"z": "状态很好，就几道划痕。",
+"n": 7
+},
+{
+"t": "Do you have boxes I could use?",
+"z": "你有我能用的纸箱吗？",
+"n": 8
+},
+{
+"t": "Can you help me carry this down the stairs?",
+"z": "能帮我把这个搬下楼吗？",
+"n": 9
+},
+{
+"t": "Lift with your legs, not your back.",
+"z": "用腿发力，别用腰。",
+"n": 10
+},
+{
+"t": "I need to set up utilities at the new place.",
+"z": "我得给新家开通水电。",
+"n": 11
+},
+{
+"t": "Did you forward your mail?",
+"z": "你办理邮件转寄了吗？",
+"n": 12
+},
+{
+"t": "The lease starts on the first.",
+"z": "租约一号开始。",
+"n": 13
+},
+{
+"t": "I'm donating a bunch of stuff to Goodwill.",
+"z": "我要捐一堆东西给 Goodwill。",
+"n": 14
+},
+{
+"t": "The landlord's doing a walkthrough on Friday.",
+"z": "房东周五来验房。",
+"n": 15
+},
+{
+"t": "We should get our deposit back in two weeks.",
+"z": "我们应该两周内能拿回押金。",
+"n": 16
+},
+{
+"t": "Where do you want this box?",
+"z": "这个箱子放哪儿？",
+"n": 17
+},
+{
+"t": "I'll label the boxes by room.",
+"z": "我会按房间给箱子贴标签。",
+"n": 18
+},
+{
+"t": "Pizza's on me for everyone who helped.",
+"z": "帮忙的人今天披萨我请。",
+"n": 19
+},
+{
+"t": "Housewarming party next month!",
+"z": "下个月办乔迁派对！",
+"n": 20
+}
+]
+}

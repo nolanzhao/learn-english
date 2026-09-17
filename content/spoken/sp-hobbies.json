@@ -1,0 +1,109 @@
+{
+"id": "sp-hobbies",
+"name": "兴趣爱好与周末",
+"course": "spoken",
+"order": 34,
+"kind": "sentence",
+"items": [
+{
+"t": "What do you do for fun?",
+"z": "你平时有什么爱好？",
+"n": 1
+},
+{
+"t": "I've really gotten into hiking lately.",
+"z": "我最近特别迷上徒步了。",
+"n": 2
+},
+{
+"t": "We're going camping over the long weekend.",
+"z": "我们长周末去露营。",
+"n": 3
+},
+{
+"t": "I'm trying to learn the guitar.",
+"z": "我在学吉他。",
+"n": 4
+},
+{
+"t": "Do you want to hit up the farmers market Saturday?",
+"z": "周六要不要去逛农贸市场？",
+"n": 5
+},
+{
+"t": "I'm in a book club that meets once a month.",
+"z": "我参加了一个每月聚一次的读书会。",
+"n": 6
+},
+{
+"t": "We binge-watched the whole season in one night.",
+"z": "我们一晚上把整季刷完了。",
+"n": 7
+},
+{
+"t": "I picked up pickleball this summer.",
+"z": "我今年夏天开始打匹克球。",
+"n": 8
+},
+{
+"t": "Let's go to the lake and rent some kayaks.",
+"z": "我们去湖边租皮划艇吧。",
+"n": 9
+},
+{
+"t": "I'm more of a homebody, honestly.",
+"z": "说实话我更喜欢宅在家。",
+"n": 10
+},
+{
+"t": "We should check out that new brewery.",
+"z": "我们应该去那家新精酿酒吧看看。",
+"n": 11
+},
+{
+"t": "I've been meaning to start a garden.",
+"z": "我一直想开始种点东西。",
+"n": 12
+},
+{
+"t": "Do you want to catch a movie tonight?",
+"z": "今晚要不要去看电影？",
+"n": 13
+},
+{
+"t": "I'm training for a half marathon.",
+"z": "我在为半程马拉松做训练。",
+"n": 14
+},
+{
+"t": "Board game night at my place Friday.",
+"z": "周五在我家玩桌游。",
+"n": 15
+},
+{
+"t": "I just got a new grill. Come over this weekend.",
+"z": "我刚买了个新烤架，这周末过来。",
+"n": 16
+},
+{
+"t": "Have you been to the new climbing gym?",
+"z": "你去过那家新开的攀岩馆吗？",
+"n": 17
+},
+{
+"t": "I'm taking a pottery class on Tuesdays.",
+"z": "我周二在上陶艺课。",
+"n": 18
+},
+{
+"t": "It's supposed to be nice out. Let's go for a bike ride.",
+"z": "天气应该不错，我们去骑车吧。",
+"n": 19
+},
+{
+"t": "What are you listening to these days?",
+"z": "你最近在听什么？",
+"n": 20
+}
+]
+}

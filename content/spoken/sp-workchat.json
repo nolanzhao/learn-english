@@ -1,0 +1,109 @@
+{
+"id": "sp-workchat",
+"name": "职场闲聊与请假",
+"course": "spoken",
+"order": 28,
+"kind": "sentence",
+"items": [
+{
+"t": "I'm taking a sick day. I feel awful.",
+"z": "我今天请病假，感觉糟透了。",
+"n": 1
+},
+{
+"t": "I need to take next Friday off.",
+"z": "我下周五要请假。",
+"n": 2
+},
+{
+"t": "Can I leave a little early today? I have a dentist appointment.",
+"z": "我今天能早点走吗？有牙医预约。",
+"n": 3
+},
+{
+"t": "I'll be working from home tomorrow.",
+"z": "我明天在家办公。",
+"n": 4
+},
+{
+"t": "Do you want to grab lunch?",
+"z": "要不要一起吃午饭？",
+"n": 5
+},
+{
+"t": "How was your vacation?",
+"z": "假期过得怎么样？",
+"n": 6
+},
+{
+"t": "I'm drowning in emails today.",
+"z": "我今天邮件多到淹死。",
+"n": 7
+},
+{
+"t": "Can you cover for me on Thursday?",
+"z": "周四能替我一下吗？",
+"n": 8
+},
+{
+"t": "Who's bringing donuts on Friday?",
+"z": "周五谁带甜甜圈？",
+"n": 9
+},
+{
+"t": "The coffee machine's broken again.",
+"z": "咖啡机又坏了。",
+"n": 10
+},
+{
+"t": "Congrats on the promotion!",
+"z": "恭喜升职！",
+"n": 11
+},
+{
+"t": "I've got back-to-back meetings until three.",
+"z": "我三点前会议排满了。",
+"n": 12
+},
+{
+"t": "Let's take five.",
+"z": "休息五分钟。",
+"n": 13
+},
+{
+"t": "I'm heading out. See you tomorrow.",
+"z": "我走了，明天见。",
+"n": 14
+},
+{
+"t": "Did you see the email from HR?",
+"z": "你看到 HR 发的邮件了吗？",
+"n": 15
+},
+{
+"t": "Are you going to the happy hour after work?",
+"z": "下班后你去欢乐时光吗？",
+"n": 16
+},
+{
+"t": "I'm off next week, so hit me up before Friday if you need anything.",
+"z": "我下周休假，有事周五前找我。",
+"n": 17
+},
+{
+"t": "My kid's sick, so I'm going to be a bit distracted today.",
+"z": "我孩子病了，今天可能有点分心。",
+"n": 18
+},
+{
+"t": "Can we push our one-on-one to Thursday?",
+"z": "我们的一对一能推到周四吗？",
+"n": 19
+},
+{
+"t": "Thanks for picking up the slack this week.",
+"z": "谢谢你这周帮忙分担。",
+"n": 20
+}
+]
+}

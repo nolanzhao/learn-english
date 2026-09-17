@@ -1,0 +1,109 @@
+{
+"id": "sp-holidays",
+"name": "节日与聚会",
+"course": "spoken",
+"order": 24,
+"kind": "sentence",
+"items": [
+{
+"t": "Happy Thanksgiving! What are you bringing?",
+"z": "感恩节快乐！你带什么菜来？",
+"n": 1
+},
+{
+"t": "I'm on pie duty this year.",
+"z": "今年派归我负责。",
+"n": 2
+},
+{
+"t": "Are you doing anything for the Fourth?",
+"z": "国庆日有什么安排吗？",
+"n": 3
+},
+{
+"t": "We're hosting this year, so come hungry.",
+"z": "今年我们家做东，空着肚子来。",
+"n": 4
+},
+{
+"t": "Can I bring anything?",
+"z": "我需要带点什么吗？",
+"n": 5
+},
+{
+"t": "Just bring yourself.",
+"z": "人来就行。",
+"n": 6
+},
+{
+"t": "It's a potluck, so everyone brings a dish.",
+"z": "是百乐餐，每人带一道菜。",
+"n": 7
+},
+{
+"t": "Let's do a Secret Santa this year.",
+"z": "今年我们玩神秘圣诞老人吧。",
+"n": 8
+},
+{
+"t": "What's the spending limit on gifts?",
+"z": "礼物预算上限是多少？",
+"n": 9
+},
+{
+"t": "Merry Christmas! Or Happy Holidays, if you prefer.",
+"z": "圣诞快乐！或者说节日快乐。",
+"n": 10
+},
+{
+"t": "We're doing fireworks at the lake.",
+"z": "我们去湖边看烟花。",
+"n": 11
+},
+{
+"t": "Trick or treat!",
+"z": "不给糖就捣蛋！",
+"n": 12
+},
+{
+"t": "What are you going as for Halloween?",
+"z": "万圣节你打算扮什么？",
+"n": 13
+},
+{
+"t": "Happy New Year! Any resolutions?",
+"z": "新年快乐！有什么新年目标吗？",
+"n": 14
+},
+{
+"t": "Thanks for having us.",
+"z": "谢谢招待。",
+"n": 15
+},
+{
+"t": "It was so good to see everyone.",
+"z": "见到大家真开心。",
+"n": 16
+},
+{
+"t": "Let's take a group photo before people leave.",
+"z": "趁大家还没走，拍张合照吧。",
+"n": 17
+},
+{
+"t": "Drive safe. Text me when you get home.",
+"z": "开车小心，到家发个消息。",
+"n": 18
+},
+{
+"t": "We should do this more often.",
+"z": "我们应该多聚聚。",
+"n": 19
+},
+{
+"t": "Save me some leftovers!",
+"z": "给我留点剩菜！",
+"n": 20
+}
+]
+}
