@@ -327,7 +327,7 @@ function align(tc,s){
 }
 function paintDiff(){
   const el=$('diff');
-  if(!cur||!attempt||phase!=='wrong-retry'){ el.className='diff off'; el.innerHTML=''; return; }
+  if(!cur||!attempt||phase==='typing'){ el.className='diff off'; el.innerHTML=''; return; }
   const cell=c=>c===' '?'&nbsp;':esc(c);
   let html='<span class="grp">';
   for(const {t,u} of align(targetOf(cur.it).chars,attempt)){
@@ -357,7 +357,7 @@ function submit(){
     renderStats(); return;
   }
   if(phase==='wrong-retry'){
-    if(ok){ phase='done'; paint(); paintZh(); $('word').classList.add('done'); fb.className='feedback ok'; fb.textContent='订正正确'; setTimeout(()=>{ if(phase==='done') advance(); },cur.it.ex?1400:450); }
+    if(ok){ phase='done'; paint(); paintZh(); $('word').classList.add('done'); fb.className='feedback ok'; fb.textContent='订正正确，按回车继续'; }   // 答错过的题不自动跳走, 留时间看错在哪, 回车才下一题
     else { if(mode()!=='see') attempt=tp.value; tp.value=''; lastVal=''; caretPos=0; fb.className='feedback bad'; fb.innerHTML=attempt?'还不对，对照上行再打一遍':`还不对，应为 <b>${esc(tg.full)}</b>`; paint(); }
   }
 }
