@@ -194,21 +194,6 @@ body.side-open .side{transform:none}
 .ex small{display:block;font-size:13px;color:var(--ink-3);margin-top:2px}
 .word.xxlong{font-size:clamp(20px,3vw,34px)}
 
-/* ===== 跟读 ===== */
-.word.say{cursor:pointer}
-.word.say .sw{color:var(--ink);transition:color .15s}
-.word.say .sw.opt{color:var(--ink-4);font-style:italic}
-.word.say .sw.ok{color:var(--ok)}
-.word.say .sw.bad{color:var(--bad);text-decoration:underline wavy var(--bad);text-decoration-thickness:2px;text-underline-offset:.14em}
-.heard{margin-top:10px;font-size:16px;color:var(--ink-2);min-height:1.5em}
-.heard.off{display:none}
-.heard .lbl{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin-right:8px;vertical-align:.1em}
-.wordbar .mic{color:var(--ink);background:var(--glass-solid);border:1px solid var(--glass-line);padding:6px 12px}
-.wordbar .mic .dot{width:9px;height:9px;border-radius:50%;background:var(--bad);display:inline-block}
-.wordbar .mic.on{background:var(--bad-soft);border-color:transparent}
-.wordbar .mic.on .dot{animation:pulse 1s ease-in-out infinite}
-@keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.5);opacity:.5}}
-
 [hidden]{display:none!important}
 
 /* ===== 顶栏右侧按钮组 ===== */
@@ -220,7 +205,7 @@ body.side-open .side{transform:none}
 .unfocus kbd{font:11px ui-monospace,Menlo,monospace;border:1px solid var(--line);border-radius:4px;padding:0 4px}
 body.focus .unfocus{display:inline-flex}
 body.focus .menu,body.focus header,body.focus .settings,body.focus .quick,body.focus .round,body.focus .context,body.focus footer,body.focus .deckbar,body.focus .review{display:none!important}
-body.focus .wordbar button:not(.mic),body.focus .wordbar .navhint{display:none}
+body.focus .wordbar button,body.focus .wordbar .navhint{display:none}
 body.focus .page{margin:0 auto;max-width:1080px;padding-top:0}
 body.focus .stage{min-height:calc(100vh - 40px);padding:0}
 body.focus .word{margin-top:0}
@@ -243,13 +228,6 @@ body.focus .word{margin-top:0}
 .decks.many .deck.active{background:var(--glass-solid);color:var(--ink);box-shadow:0 1px 3px oklch(0% 0 0/.06)}
 .decks.many .deck.active b{font-weight:600}
 
-/* ===== 听读模式 ===== */
-.word.read{cursor:default}
-.word.read .chunk{color:var(--ink)}
-.word.read .gap{display:inline-block;width:.6em}
-.chunks{max-width:820px;margin:8px auto 0;font-family:"Iowan Old Style","Charter",Georgia,serif;font-size:clamp(15px,1.6vw,19px);color:var(--ink-2);line-height:1.6}
-.chunks.off{display:none}
-.chunks i{color:var(--accent);font-style:normal;margin:0 .35em;opacity:.7}
 /* ===== 我的词库管理 ===== */
 .mydecks{margin-top:12px;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid var(--glass-line);border-radius:16px;padding:8px 18px;font-size:14px}
 .mydecks div{display:flex;justify-content:space-between;gap:12px;padding:8px 0;border-bottom:1px solid var(--glass-line)}
@@ -257,3 +235,16 @@ body.focus .word{margin-top:0}
 .mydecks small{color:var(--ink-3);margin-left:6px}
 .mydecks button{color:var(--ink-2);text-decoration:underline;text-underline-offset:3px;font-size:13px}
 .mydecks .empty{color:var(--ink-3);border:0}
+
+/* ===== 拼写/听写答错: 正确(上) vs 手打(下) 逐字母对齐 ===== */
+.diff{display:flex;flex-wrap:wrap;justify-content:flex-start;max-width:100%;margin:14px 0 0;padding:10px 14px;border-radius:14px;background:var(--glass);border:1px solid var(--glass-line);font-family:ui-monospace,"SF Mono",Menlo,monospace;font-size:clamp(20px,3vw,32px);line-height:1.25;text-align:left}
+.diff.off{display:none}
+.diff .grp{display:inline-flex;white-space:nowrap}
+.diff .col{display:inline-flex;flex-direction:column;align-items:stretch;min-width:.62em;margin:0 1px}
+.diff .col b,.diff .col i{font-weight:400;font-style:normal;min-height:1.25em;text-align:center}
+.diff .col b{color:var(--ink)}
+.diff .col i{color:var(--ink-3)}
+.diff .col.opt b{color:var(--ink-4);font-style:italic}
+.diff .col.x b{color:var(--ok-ink);font-weight:600}
+.diff .col.x i{color:var(--bad);background:var(--bad-soft);border-radius:3px;font-weight:600}
+.diff .col.x.opt i:empty{background:none}

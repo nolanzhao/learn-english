@@ -47,7 +47,7 @@ Existing public courses: `pte`, `ielts`, `toefl`, `gre`, `spoken`. Prefer adding
 | `items[].n` | 1-based running number. |
 | `items[].ph` | Phonetics, only if the source provides them — do not invent IPA. |
 | `items[].ex`, `exz` | Example sentence and its translation (shown after answering). |
-| `items[].chunks` | Sense groups separated by ` / ` (used by the listen-and-read mode). |
+| `items[].chunks` | Sense groups separated by ` / ` (optional; kept in the data, not shown in the UI). |
 | `items[].tag`, `ref` | Short label and source number, e.g. `"RS"`, `"41200"`. |
 
 **Append-only rule:** progress is stored by item index. In a published deck, add new items at the end; do not reorder or delete existing ones.
